@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Victor Gan
+tagline:          and thoughts
+url:              http://victorgan.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Victor Gan
+  url:            https://vgan.ca
+  email:          victorgan@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/victorgan/victorgan.github.io.git
