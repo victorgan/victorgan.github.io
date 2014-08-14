@@ -26,3 +26,6 @@ pages_list:
   About:    '/about/'
   Notes:    '/notes/'
   Feed:     '/atom.xml'
+
+# Should enable comments?
+comments: true
