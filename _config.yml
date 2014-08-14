@@ -20,3 +20,9 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/victorgan/victorgan.github.io.git
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About:    '/about/'
+  Archive:  '/archive/'
+  Feed:     '/atom.xml'
