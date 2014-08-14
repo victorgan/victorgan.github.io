@@ -28,3 +28,6 @@ pages_list:
 
 # Should enable comments?
 comments: true
+
+# when calling {{ post.excerpt }}, will only return until this symbol
+excerpt_separator: <!--end excerpt-->
