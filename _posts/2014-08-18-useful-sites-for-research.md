@@ -16,7 +16,7 @@ Last updated 2014-08-19 Tue 06:04 PM
 ### Saving Papers
 If there's a paper I've read or want to read, I add it to my library on Google
 Scholar and add an appropriate label. I download a copy of the PDF into Google
-Drive with the naming convention "(First author last name) (date) (first word of
+Drive with the naming convention "(first author last name) (date) (first word of
 title)", eg. gan2014title. This is also the naming convention Google scholar
 uses for BibTeX citations, so it acts as a unique ID for the paper both in my
 head and whenever I reference it. I find it's a good balance of conciseness and
