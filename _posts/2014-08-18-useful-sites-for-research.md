@@ -28,6 +28,7 @@ Microsoft Academic Search has a public API that could be more elegant, but they
 don't index enough papers right now.
 
 This works well because:
+
 - I now have a google-powered content-searchable list of all the papers I've read
 - I have an offline version of the PDFs
 - All the benefits of data in the cloud
@@ -35,6 +36,7 @@ This works well because:
 - Easy: I search Google Scholar for papers and BibTeX citations anyway.
 
 But it still has problems:
+
 - The paper lists and tags are locked into Google Scholar. Google Scholar
   doesn't have an "export data" option, and it's not available in Google
   Takeout. This is worrisome, although it seems easily scrapable if I need to
@@ -57,12 +59,14 @@ OneNote also allows you to import PDFs to annotate, but the ease of annotation
 isn't outweighed by the monolithic file format prone to bit rot.
 
 Good:
+
 - It's in the cloud.
 - It supports screenshots, web clippings, handrawn math and figures, and pdf printouts.
 - The user interface makes it quick to access everything.
 - I can include hand-drawn notes on how papers are related
 
 Bad:
+
 - It's a proprietary, complex file format
 - My notes on a paper should ideally be with the paper
 
