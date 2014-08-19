@@ -52,8 +52,11 @@ But it still has problems:
 Right now I use OneNote: I have two notebooks. One for Concepts, where I
 summarize ideas and see how they connect, and one for Papers, where I take notes
 on individual papers. Ideally the notes in the "Papers" notebook will migrate to
-the "Concepts" section. In practice it's very messy; the effort to align things
-in OneNote isn't worth the time.
+the "Concepts" section. In practice it's very messy; the effort to visually align things
+in OneNote isn't worth the time. It's a great UI for quick and messy thoughts: whenever
+I see something that relates to a concept, I take a screenshot and add it to the page. It's
+easy to re-organize notes, so I don't care if my notes on are in the wrong category.
+
 
 OneNote also allows you to import PDFs to annotate, but the ease of annotation
 isn't outweighed by the monolithic file format prone to bit rot.
@@ -64,11 +67,14 @@ Good:
 - It supports screenshots, web clippings, handrawn math and figures, and pdf printouts.
 - The user interface makes it quick to access everything.
 - I can include hand-drawn notes on how papers are related
+- The search is good
 
 Bad:
 
 - It's a proprietary, complex file format
+- The notes can only be in one category, instead of a tag-based system where it could be in multiple
 - My notes on a paper should ideally be with the paper
+- Slow to load and crashes from time to time
 
 ## Links
 
