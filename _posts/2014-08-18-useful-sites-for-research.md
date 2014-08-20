@@ -118,6 +118,15 @@ Bad:
   for specific background topics.
 - [List of machine learning textbooks on
   Reddit](http://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
+
+### Matlab
+It's useful to have Matlab with the following toolboxes:
+
+- Image Processing Toolbox
+- Parallel Processing Toolbox
+- Statistics Toolbox
+- Computer Vision Toolbox (if only for the plotting functions)
+
 - [VLFeat](http://www.vlfeat.org/matlab/matlab.html)
 - [Piotr's Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 - [Other useful Matlab Resources](http://www.csse.uwa.edu.au/~pk/research/matlabfns/othersites.html)
