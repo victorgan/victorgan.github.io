@@ -15,14 +15,14 @@ Last updated 2014-08-19 Tue 06:04 PM
 
 ### Saving Papers
 If there's a paper I've read or want to read, I add it to my library on Google
-Scholar and add an appropriate label. I download a copy of the PDF into Google
-Drive with the naming convention "(first author last name) (date) (first word of
-title)", eg. gan2014title. This is also the naming convention Google scholar
-uses for BibTeX citations, so it acts as a unique ID for the paper both in my
-head and whenever I reference it. I find it's a good balance of conciseness and
-memorability.  I automate the PDF downloading with Pocket
-(tagging each document with its name/date/title unique ID) and IFTTT, though
-ideally Scholar would be more elegantly integrated with IFTTT or RSS. 
+Scholar and add labels. I download a copy of the PDF into Google Drive with the
+naming convention "(first author last name) (date) (first word of title)", eg.
+gan2014title. This is also the naming convention Google scholar uses for BibTeX
+citations, so it acts as a unique ID for the paper both in my head and whenever
+I reference it. I find it's a good balance of conciseness and memorability.  I
+automate the PDF downloading with Pocket (tagging each document with its
+name/date/title unique ID) and IFTTT. Ideally Scholar would be more
+elegantly integrated with IFTTT or RSS.
 
 Microsoft Academic Search has a public API that could be more elegant, but they
 don't index enough papers right now.
@@ -39,7 +39,7 @@ But it still has problems:
 
 - The paper lists and tags are locked into Google Scholar. Google Scholar
   doesn't have an "export data" option, and it's not available in Google
-  Takeout. This is worrisome, although it seems easily scrapable if I need to
+  Takeout. This is worrisome, although it looks easy to scape if I need to
   migrate.
 - There might be ID clashes if two first authors publish a paper the same year
   with the same first word in the title. 
@@ -47,27 +47,30 @@ But it still has problems:
   supplementary material to the papers.
 - Pocket + IFTTT is slow.
 - What's the best way to take notes on the papers?
+- Batch labelling papers could be easier
 
 ### Writing Notes
 Right now I use OneNote: I have two notebooks. One for Concepts, where I
 summarize ideas and see how they connect, and one for Papers, where I take notes
 on individual papers. Ideally the notes in the "Papers" notebook will migrate to
-the "Concepts" section. In practice it's very messy; the effort to visually align things
-in OneNote isn't worth the time. It's a great UI for quick and messy thoughts: whenever
-I see something that relates to a concept, I take a screenshot and add it to the page. It's
-easy to re-organize notes, so I don't care if my notes on are in the wrong category.
-
+the "Concepts" section. In practice it's very messy; the effort to visually
+align things in OneNote isn't worth the time. It's great for quick and messy
+thoughts: whenever I see something that relates to a concept, I take a
+screenshot and add it to the page. It's easy to re-organize notes, so I don't
+care if my notes on are in the wrong category.
 
 OneNote also allows you to import PDFs to annotate, but the ease of annotation
-isn't outweighed by the monolithic file format prone to bit rot.
+isn't outweighed by the propensity for bit rot. I haven't tried Evernote.
 
 Good:
 
 - It's in the cloud.
-- It supports screenshots, web clippings, handrawn math and figures, and pdf printouts.
+- It supports screenshots, web clippings, hand-drawn math and figures, and pdf printouts.
 - The user interface makes it quick to access everything.
 - I can include hand-drawn notes on how papers are related
 - The search is good
+- It makes me summarize notes instead of highlighting it, which helps with
+  understanding (or so I think)
 
 Bad:
 
@@ -75,6 +78,7 @@ Bad:
 - The notes can only be in one category, instead of a tag-based system where it could be in multiple
 - My notes on a paper should ideally be with the paper
 - Slow to load and crashes from time to time
+- It's not plain text
 
 ## Links
 
