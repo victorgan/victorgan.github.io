@@ -45,7 +45,7 @@ But it still has problems:
   with the same first word in the title. 
 - This doesn't elegantly incorporate slides from talks, project files and other
   supplementary material to the papers.
-- Pocket + IFTTT is slow.
+- Pocket + IFTTT is slow to update.
 - What's the best way to take notes on the papers?
 - Batch labelling papers could be easier
 
