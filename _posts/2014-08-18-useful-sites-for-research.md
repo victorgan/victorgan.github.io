@@ -9,7 +9,7 @@ A list of various sites for research, catered towards computer science. A lot of
 them I haven't read yet; it's mostly for my sake.
 
 <!--end excerpt-->
-Last updated 2014-08-19 Tue 06:04 PM
+Last updated Sept 15, 2014.
 
 ## How I Organize Papers and Research
 
