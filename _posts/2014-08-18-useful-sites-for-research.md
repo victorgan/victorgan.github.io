@@ -87,8 +87,7 @@ Bad:
   call for papers.
 - [Metacademy](http://www.metacademy.org/): Goes through various machine
   learning concepts
-- [The PhD Grind](http://pgbovine.net/PhD-memoir.htm): A memoir from a Stanford
-  computer science PhD 
+
 
 ### Persistently Useful
 - [Google Scholar](http://scholar.google.com/): Google for research papers. You
@@ -104,8 +103,13 @@ Bad:
 
 ### General 'Advice' Pages
 - [How to learn on your own](http://www.metacademy.org/roadmaps/rgrosse/learn_on_your_own)
-- http://www.cs.cmu.edu/~jasonh/advice.html
-- http://vlsicad.ucsd.edu/Research/Advice/network.html
+- [http://www.cs.cmu.edu/~jasonh/advice.html](http://www.cs.cmu.edu/~jasonh/advice.html)
+- [http://vlsicad.ucsd.edu/Research/Advice/network.html](http://vlsicad.ucsd.edu/Research/Advice/network.html)
+- [http://www.cs.ubc.ca/~van/upload/TenSimpleRulesCollection.pdf](http://www.cs.ubc.ca/~van/upload/TenSimpleRulesCollection.pdf)
+- [The PhD Grind](http://pgbovine.net/PhD-memoir.htm): A memoir from a Stanford
+  computer science PhD 
+- [http://www.cs.ubc.ca/~murphyk/Teaching/guideForStudents.html](http://www.cs.ubc.ca/~murphyk/Teaching/guideForStudents.html)
+- [http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 
 ### Topical Links
 - [Foundations and Trends® in Machine
