@@ -22,6 +22,9 @@ Dropbox -> Website
 
 ### PDFs
 Dropbox -> IFTTT
+Then edit them in Drawboard PDF
+
+I need a better
 
 ### Latex Papers, Assignments
 Dropbox -> Sharelatex
