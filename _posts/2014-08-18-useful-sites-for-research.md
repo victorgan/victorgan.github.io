@@ -67,7 +67,7 @@ Good:
 - It's in the cloud.
 - It supports screenshots, web clippings, hand-drawn math and figures, and pdf printouts.
 - The user interface makes it quick to access everything.
-- I can include hand-drawn notes on how papers are related
+- I can include hand-drawn notes 
 - The search is good
 - It makes me summarize notes instead of highlighting it, which helps with
   understanding (or so I think)
