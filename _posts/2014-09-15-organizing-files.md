@@ -62,3 +62,22 @@ Concepts Notebook: Basically a personal Wikipedia for common topics.
 
 ### Books to Read
 Goodreads.com
+
+### Other Files to Organize
+
+- Passwords
+- Sensitive Documents (banking, bills)
+- School
+- Contacts
+- Photos
+- Videos Music
+
+| Criteria                          | X |
+|-----------------------------------|:-:|
+| Good UI                           | Y |
+| Editable Online                   | Y |
+| Canonical Storage Location        | Y |
+| Archive-Suitable File Format      | Y |
+| Offline Copy Stored Automatically | Y |
+| Free                              | Y |
+| Version Control                   | Y |
