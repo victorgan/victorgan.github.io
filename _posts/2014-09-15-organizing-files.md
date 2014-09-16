@@ -14,10 +14,11 @@ This is pretty much just for my sake to remember where I store things.
 
 ### Daily organization
 
-Google Calendar
-Goole Keep for To do list.
-Gmail with delayed sending
+Google Calendar for appointments. Places to Be.
+Goole Keep for To do list. Tasks to perform.
+Gmail with delayed sending. When Communicating with others.
 
+- To check everyday: Calendar, To do list, Email. Nothing else.
 - Problem: Sometimes I put tasks in Calendar, future emails to myself, or
   Google Keep. I need to consolidate. Perhaps just use Google Keep?
 
@@ -33,20 +34,31 @@ Dropbox -> Website
 Dropbox -> IFTTT
 Then edit them in Drawboard PDF and take notes in OneNote
 
-- Good: Very easy to
-- Good: Papers are kept in an archival file format
-- Bad: Papers aren't organized.
-- Bad: No online search (use Google docs?)
+- (+): Papers are kept in an archival file format
+- (-): Papers aren't organized.
+- (-): No online search (use Google docs?)
 
-### Latex Papers, Assignments
-Dropbox -> Sharelatex
+### Documents
+Currently using: 
+
+- Prototype in OneNote, print out and edit
+- Make Latex Documents, edit with vim and/or sharelatex and synced
+with dropbox with a git repository
+- (+): text files
+- (-): no canonical storage area
+
+Other options:
+
+- Google Docs: Better web edits, files centrally stored, easy collaboration, bad
+  file type
 
 ### OneNote 
 
 Concepts Notebook: Basically a personal Wikipedia for common topics.
 
-- Good: Very easy to
-- Bad: Proprietary file format
+- (+): Very easy to write quick and dirty ideas
+- (+): Ideas stores in a central location
+- (-): Proprietary file format. It can export to pdf, though terribly.
 
 ### Books to Read
 Goodreads.com
