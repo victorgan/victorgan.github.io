@@ -14,18 +14,18 @@ Last updated Sept 15, 2014.
 ## How I Organize Papers and Research
 
 ### Saving Papers
-If there's a paper I've read or want to read, I add it to my library on Google
-Scholar and add labels. I download a copy of the PDF into Google Drive with the
+If there's a paper I've read or want to read, I: 
+
+1. add it to my library on Google Scholar and add labels. 
+2. download a copy of the PDF into Google Drive with the
 naming convention "(first author last name) (date) (first word of title)", eg.
 gan2014title. This is also the naming convention Google scholar uses for BibTeX
 citations, so it acts as a unique ID for the paper both in my head and whenever
-I reference it. I find it's a good balance of conciseness and memorability.  I
-automate the PDF downloading with Pocket (tagging each document with its
+I reference it. I find it's a good balance of conciseness and memorability.  
+3. I automate the PDF downloading with Pocket (tagging each document with its
 name/date/title unique ID) and IFTTT. Ideally Scholar would be more
-elegantly integrated with IFTTT or RSS.
-
-Microsoft Academic Search has a public API that could be more elegant, but they
-don't index enough papers right now.
+elegantly integrated with IFTTT or RSS. Microsoft Academic Search has a public
+API that could be more elegant, but they don't index enough papers right now.
 
 This works well because:
 
@@ -60,7 +60,7 @@ screenshot and add it to the page. It's easy to re-organize notes, so I don't
 care if my notes on are in the wrong category.
 
 OneNote also allows you to import PDFs to annotate, but the ease of annotation
-isn't outweighed by the propensity for bit rot. I haven't tried Evernote.
+isn't outweighed by the potential for bit rot. I haven't tried Evernote.
 
 Good:
 
@@ -110,6 +110,10 @@ Bad:
   computer science PhD 
 - [http://www.cs.ubc.ca/~murphyk/Teaching/guideForStudents.html](http://www.cs.ubc.ca/~murphyk/Teaching/guideForStudents.html)
 - [http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+- [http://users.soe.ucsc.edu/~ejw/advice/](http://users.soe.ucsc.edu/~ejw/advice/)
+
+### Writing Tips
+- [https://www.cs.ubc.ca/~tmm/writing.txt](https://www.cs.ubc.ca/~tmm/writing.txt)
 
 ### Topical Links
 - [Foundations and Trends® in Machine
@@ -134,3 +138,7 @@ It's useful to have Matlab with the following toolboxes:
 - [VLFeat](http://www.vlfeat.org/matlab/matlab.html)
 - [Piotr's Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 - [Other useful Matlab Resources](http://www.csse.uwa.edu.au/~pk/research/matlabfns/othersites.html)
+
+### Additions
+If there's anything you think would fit here, feel free to comment below (check 'I'd rather post as guest' and put a bogus
+email if you'd rather keep anonymous) or email me at victorgan ( at ) gmail.com.
