@@ -100,6 +100,7 @@ Bad:
   tiers of conferences
 - [Conference Ranks](http://www.conferenceranks.com): Ranks tiers of
   conferences.
+- [Rankings for common computer vision datasets](http://rodrigob.github.io/are_we_there_yet/build/)
 
 ### General 'Advice' Pages
 - [How to learn on your own](http://www.metacademy.org/roadmaps/rgrosse/learn_on_your_own)
