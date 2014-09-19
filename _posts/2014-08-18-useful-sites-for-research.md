@@ -131,7 +131,7 @@ Bad:
 ### Datasets
 - [https://www.quandl.com/](https://www.quandl.com/)
 - [Google Dataset Search](https://www.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m)
-
+- [http://rs.io/100-interesting-data-sets-for-statistics/](http://rs.io/100-interesting-data-sets-for-statistics/)
 
 ### Matlab
 It's useful to have Matlab with the following toolboxes:
