@@ -17,15 +17,15 @@ Last updated Sept 15, 2014.
 If there's a paper I've read or want to read, I: 
 
 1. add it to my library on Google Scholar and add labels. 
-2. download a copy of the PDF into Google Drive with the
-naming convention "(first author last name) (date) (first word of title)", eg.
-gan2014title. This is also the naming convention Google scholar uses for BibTeX
-citations, so it acts as a unique ID for the paper both in my head and whenever
-I reference it. I find it's a good balance of conciseness and memorability.  
+2. download a copy of the PDF into Google Drive with the naming convention
+   "(first author last name) (date) (first word of title)", eg.  gan2014title.
+   This is also the naming convention Google scholar uses for BibTeX citations,
+   so it acts as a unique ID for the paper both in my head and whenever I
+   reference it. I find it's a good balance of conciseness and memorability.  
 3. I automate the PDF downloading with Pocket (tagging each document with its
-name/date/title unique ID) and IFTTT. Ideally Scholar would be more
-elegantly integrated with IFTTT or RSS. Microsoft Academic Search has a public
-API that could be more elegant, but they don't index enough papers right now.
+   name/date/title unique ID) and IFTTT. Ideally Scholar would be more elegantly
+   integrated with IFTTT or RSS. Microsoft Academic Search has a public API that
+   could be more elegant, but they don't index enough papers right now.
 
 This works well because:
 
