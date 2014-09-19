@@ -7,6 +7,7 @@ Posts on metafilter I like.
 <!--end excerpt-->
 
 [Clever Relationship Hacks](http://ask.metafilter.com/137148/What-clever-relationship-hacks-have-you-come-up-with#1960336):
+
 > Almost 20 years ago, my then-partner and I read a little pamphlet about
 > relationships. I don't remember its name or who wrote it. But it said that
 > people often start negotiating from what they think they can get, not what
@@ -32,6 +33,7 @@ Posts on metafilter I like.
 > is. Now we use it all the time with friends as well as with each other.
 
 [pineapple on Metafilter](http://ask.metafilter.com/126816/What-conversations-are-a-MUST-before-two-people-get-married#1812279):
+
 > Learn how to play 5-3-1. It's a trick to settle the "where do you want to
 > eat?" "I don't care, where do you want to eat?" game. One partner names 5
 > places, the other eliminates two of those choices, and the first one
