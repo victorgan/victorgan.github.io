@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+[<i class="fa fa-rss"></i>]({% post_url /atom.xml %})
 
 {% for post in site.posts %}
 
