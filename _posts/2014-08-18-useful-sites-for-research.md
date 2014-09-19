@@ -128,6 +128,11 @@ Bad:
 - [List of machine learning textbooks on
   Reddit](http://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 
+### Datasets
+- [https://www.quandl.com/](https://www.quandl.com/)
+- [Google Dataset Search](https://www.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m)
+
+
 ### Matlab
 It's useful to have Matlab with the following toolboxes:
 
