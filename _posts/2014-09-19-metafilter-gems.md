@@ -6,7 +6,24 @@ title: Metafilter Gems
 Posts on metafilter I like.
 <!--end excerpt-->
 
-[Clever Relationship Hacks](http://ask.metafilter.com/137148/What-clever-relationship-hacks-have-you-come-up-with#1960336):
+### [Winning at Life](http://ask.metafilter.com/227940/Winning-At-Life)
+
+A list of life hacks.
+
+### [The Old Man and the C Drive](http://ask.metafilter.com/164388/The-Old-Man-and-the-C-Drive)
+
+> What are some comprehensive one-topic websites maintained by cranky old guys
+> (or gals)?
+
+And the answers:
+
+- [Sheldon Brown's Bicycle Site](http://sheldonbrown.com/)
+- [Ian's Shoelace Site](http://www.fieggen.com/shoelace/)
+- [carfree.com](http://www.carfree.com/)
+- ...just click the link.
+
+
+### [Negotiating with Partners](http://ask.metafilter.com/137148/What-clever-relationship-hacks-have-you-come-up-with#1960336):
 
 > Almost 20 years ago, my then-partner and I read a little pamphlet about
 > relationships. I don't remember its name or who wrote it. But it said that
@@ -32,7 +49,7 @@ Posts on metafilter I like.
 > Everyone we've told this to begins using it and then raves about how great it
 > is. Now we use it all the time with friends as well as with each other.
 
-[pineapple on Metafilter](http://ask.metafilter.com/126816/What-conversations-are-a-MUST-before-two-people-get-married#1812279):
+### [How to Choose Where To Eat](http://ask.metafilter.com/126816/What-conversations-are-a-MUST-before-two-people-get-married#1812279):
 
 > Learn how to play 5-3-1. It's a trick to settle the "where do you want to
 > eat?" "I don't care, where do you want to eat?" game. One partner names 5
@@ -44,11 +61,13 @@ Posts on metafilter I like.
 > people can make major life decisions but are wholly unable to commit between
 > Chinese and burgers.
 
-### General Metafilter Relationship Questions
+## General Metafilter Relationship Questions
+
 - http://ask.metafilter.com/254331/Say-this-not-that
 - http://infodumpster.org/posts/favorites?poster_name=&tag=&site=askme&category=14&start_date=&end_date=
 - http://infodumpster.org/comments/favorites?commenter_name=&site=askme&category=14&start_date=&end_date=
 
-### General Metafilter Questions
+## General Metafilter Questions
+
 - http://infodumpster.org/posts/favorites?poster_name=&tag=&site=askme&category=&start_date=&end_date=
 - http://infodumpster.org/comments/favorites?commenter_name=&site=mefi&start_date=&end_date=

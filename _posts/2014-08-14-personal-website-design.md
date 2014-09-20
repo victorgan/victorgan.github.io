@@ -63,7 +63,7 @@ git repository, random text file, or folder on Dropbox that I have to remember.
 
 ### Things I would like to change
 
-- ~~Permalinks of posts. I'd like them to be simpler.~~
+- <del>Permalinks of posts. I'd like them to be simpler.</del>
 - On the main page; it lists the date, then post title. It looks sort of ugly.
 - Ordering of posts. Reverse chronological doesn't seem like the best decision,
   given I'm updating posts frequently. Although I don't know what would be
@@ -72,6 +72,9 @@ git repository, random text file, or folder on Dropbox that I have to remember.
   second thought, I don't really like it.
 
 ## Personal Websites I like
+
+Sites that I like either for their aesthetic design, content, or ways they
+organize their content.
 
 - [Philip Greenspun](http://philip.greenspun.com/): A plain site with lots of
   quirky content seems to be a winning combination.
