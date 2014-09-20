@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-[Feed](/atom.xml)
+[Feed]({% post_url /atom.xml %})
 
 {% for post in site.posts %}
 
