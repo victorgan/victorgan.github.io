@@ -3,7 +3,7 @@ layout: post
 title: Things I Dislike
 ---
 
-Sept 2014:
+### September 2014
 
 - Web pages with a gigantic picture at the top, which forces you to scroll down
   for the content. 
