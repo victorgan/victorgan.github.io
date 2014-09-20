@@ -31,12 +31,10 @@ A list of life hacks.
 > What are some comprehensive one-topic websites maintained by cranky old guys
 > (or gals)?
 
-And the answers:
-
 - [Sheldon Brown's Bicycle Site](http://sheldonbrown.com/)
 - [Ian's Shoelace Site](http://www.fieggen.com/shoelace/)
 - [carfree.com](http://www.carfree.com/)
-- ...just click the link.
+- and a lot more
 
 
 ### [Negotiating with Partners](http://ask.metafilter.com/137148/What-clever-relationship-hacks-have-you-come-up-with#1960336):
@@ -61,9 +59,6 @@ And the answers:
 > could leave the house for two hours...but what if I take the kids with me to
 > Home Depot to get the stuff we need to fix the door? Then you'd have about an
 > hour to yourself.") you at least know that what you wanted was heard.
-> 
-> Everyone we've told this to begins using it and then raves about how great it
-> is. Now we use it all the time with friends as well as with each other.
 
 ### [How to Choose Where To Eat](http://ask.metafilter.com/126816/What-conversations-are-a-MUST-before-two-people-get-married#1812279):
 
@@ -73,11 +68,5 @@ And the answers:
 > eliminates the remaining two. It's decision making in turns, and it works just
 > as well as anything else. 
 
-## General Metafilter Relationship Questions
 
-- http://ask.metafilter.com/254331/Say-this-not-that
-
-## General Metafilter Questions
-
-- http://infodumpster.org/posts/favorites?poster_name=&tag=&site=askme&category=&start_date=&end_date=
-- http://infodumpster.org/comments/favorites?commenter_name=&site=mefi&start_date=&end_date=
+...More at [Infodumpster](http://infodumpster.org/comments/favorites?commenter_name=&site=mefi&start_date=&end_date=).
