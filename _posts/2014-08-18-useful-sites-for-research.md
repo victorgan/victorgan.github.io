@@ -98,6 +98,7 @@ Bad:
   tiers of conferences
 - [Conference Ranks](http://www.conferenceranks.com): Ranks tiers of
   conferences.
+- [Microsoft Academic Search](http://academic.research.microsoft.com/): Ranks people, conferences, universities, and publication by field of research
 - [Rankings for common computer vision datasets](http://rodrigob.github.io/are_we_there_yet/build/)
 
 ### General 'Advice' Pages
