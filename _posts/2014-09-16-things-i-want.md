@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I want
+title: Things I Want
 ---
 
 ### September 2014

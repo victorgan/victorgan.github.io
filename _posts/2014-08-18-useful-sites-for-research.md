@@ -3,8 +3,6 @@ layout: post
 title: Useful Sites for Research
 ---
 
-<!--TODO: history of past sites -->
-
 A list of various sites for research, catered towards computer science. A lot of
 them I haven't read yet; it's mostly for my sake.
 

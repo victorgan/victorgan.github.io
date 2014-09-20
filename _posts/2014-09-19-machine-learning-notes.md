@@ -29,6 +29,9 @@ Questions I have, or once had.
 
 #### What's the difference between boosted trees and random forests?
 
-#### Where can I find a list of common classifiers?
+They both combine many decision trees.
+Boosted trees uses boosting, random forest uses bagging.
 
-#### Any online plug-n-play ml solutions?
+#### What are common classifiers?
+
+#### Any online plug-n-play ML solutions?
