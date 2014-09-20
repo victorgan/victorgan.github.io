@@ -22,7 +22,7 @@ github:
   repo:           https://github.com/victorgan/victorgan.github.io.git
 
 # This is the list of pages to include in the header of the website.
-pages_list:       
+# pages_list:       
   # About:    '/about.html'
   # Feed:     '/atom.xml'
 
