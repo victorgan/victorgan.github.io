@@ -6,6 +6,22 @@ title: Metafilter Gems
 Posts on metafilter I like.
 <!--end excerpt-->
 
+### [Say this not that](http://ask.metafilter.com/254331/Say-this-not-that)
+
+> Insert all instances of "but" with "yes, and"
+> 
+> But makes people instantly defensive. They told you a thought, but says "your thought was wrong here's my thought". Yes, and says "I received your thought and would like to add to it"
+
+> One thing that I learned that is brilliant is that you should phrase things as a positive, not a negative. For example:
+> 
+> "Remember to clean the cat box." Remember is a positive word, also as the words ring in the ears it's "remember, remember, remember." 
+> 
+> "Don't Forget to clean the cat box," has two negative words, Don't and Forget. If either one is ringing in the recipient's ears, trust and believe the cats will be tip-toeing on Mt. Poopmore. 
+> 
+> Replace "don't do X" with "Do Y." 
+
+> When thanking servicepeople, I try to specifically thank them for what they have actually done. A quick, robotic "Thank you" can be a knee-jerk reaction and it doesn't hold much weight. "Thank you for helping me find the saurkraut" or "Thank you for hooking up my cable, now I can watch the Olympics" helps to bring home what the person did. As a person who often works the front desk, I like to hear why I'm being thanked. It's much more meaningful than just a social reflex "thankyou" as the person is walking away.
+
 ### [Winning at Life](http://ask.metafilter.com/227940/Winning-At-Life)
 
 A list of life hacks.
@@ -56,16 +72,10 @@ And the answers:
 > places, the other eliminates two of those choices, and the first one
 > eliminates the remaining two. It's decision making in turns, and it works just
 > as well as anything else. 
-> 
-> Maybe someday, someone will solve the dilemma of why two educated self-aware
-> people can make major life decisions but are wholly unable to commit between
-> Chinese and burgers.
 
 ## General Metafilter Relationship Questions
 
 - http://ask.metafilter.com/254331/Say-this-not-that
-- http://infodumpster.org/posts/favorites?poster_name=&tag=&site=askme&category=14&start_date=&end_date=
-- http://infodumpster.org/comments/favorites?commenter_name=&site=askme&category=14&start_date=&end_date=
 
 ## General Metafilter Questions
 
