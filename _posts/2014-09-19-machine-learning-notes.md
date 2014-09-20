@@ -8,7 +8,7 @@ title: Machine Learning Notes
 ### September 2014
 (http://image-net.org/challenges/LSVRC/2014/slides/GoogLeNet.pptx)
 
-[Microsoft ML Hackathon] (http://blogs.technet.com/b/machinelearning/archive/2014/09/16/microsoft-machine-learning-hackathon-2014.aspx): 
+[Microsoft ML Hackathon](http://blogs.technet.com/b/machinelearning/archive/2014/09/16/microsoft-machine-learning-hackathon-2014.aspx): 
 
 > it was important to be working in teams and to be thoughtful about how to
 > split a given ML challenge between team members.  Assigning roles and having
@@ -27,13 +27,8 @@ title: Machine Learning Notes
 ## Questions
 Questions I have, or once had.
 
-- What's the difference between boosted trees and random forests?
-- Where can I find a list of common classifiers?
-- Any online plug-n-play ml solutions?
+#### What's the difference between boosted trees and random forests?
 
-## Definitions
+#### Where can I find a list of common classifiers?
 
-- Bagging:
-- Boosting:
-- CART:
-- ML: machine learning
+#### Any online plug-n-play ml solutions?
