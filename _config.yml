@@ -3,7 +3,7 @@ markdown:         kramdown
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            Victor Gan
