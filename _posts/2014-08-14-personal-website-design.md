@@ -91,6 +91,7 @@ organize their content.
 - [Steve Losh](http://stevelosh.com/): Nice looking blog with posts, with a
   similar style of perfectionism. 
 - [Graham Hicks](http://grahamhicks.com/): Cool one page design.  
+- [Becoming Minimalist](http://www.becomingminimalist.com/) has a nice taste on the large picture before content theme.
 
 ## Tools to Write Stuff
 
