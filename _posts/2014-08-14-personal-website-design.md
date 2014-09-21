@@ -92,6 +92,7 @@ organize their content.
   similar style of perfectionism. 
 - [Graham Hicks](http://grahamhicks.com/): Cool one page design.  
 - [Becoming Minimalist](http://www.becomingminimalist.com/) has a nice taste on the large picture before content theme.
+- [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) is like something I have, but public.
 
 ## Tools to Write Stuff
 
