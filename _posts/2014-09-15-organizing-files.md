@@ -3,13 +3,7 @@ layout: post
 title: Organizing Files
 ---
 
-<!--TODO: history of past sites -->
-
 I need to get organized.
-
-<!--end excerpt-->
-Last updated Sept 15, 2014.
-
 This is pretty much just for my sake to remember where I store things.
 
 ### Daily organization
@@ -82,3 +76,4 @@ Goodreads.com
 | Offline Copy Stored Automatically | Y |
 | Free                              | Y |
 | Version Control                   | Y |
+
