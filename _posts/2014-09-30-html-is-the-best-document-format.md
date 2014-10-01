@@ -17,6 +17,7 @@ Generally, there are
 - one note files
 - physical pen and paper
 - html files
+- Google docs
 
 ## Why it's better
 
@@ -27,11 +28,13 @@ HTML advantages:
 - can easily be linked
 - stored remotely, always up to date
 - hyperlinks
+- browsers
 
 HTML disadvantages:
 
 - hard to constrain formatting
 - broken links, 
+- hard to create (compared to Google docs)
 
 ## What you see is what you get
 
