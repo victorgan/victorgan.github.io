@@ -3,8 +3,7 @@ layout: post
 title: Metafilter Gems
 ---
 
-Posts on metafilter I like.
-<!--end excerpt-->
+Metafilter is an internet community. Here's a collection of posts on metafilter I've liked, at some point. Lots of them are some of the [top favourited](http://infodumpster.org/) on the site, and I've favourited them on my account, but I decided to post them here so I can look back at them at a glance.
 
 ### [Say this not that](http://ask.metafilter.com/254331/Say-this-not-that)
 
@@ -67,6 +66,3 @@ A list of life hacks.
 > places, the other eliminates two of those choices, and the first one
 > eliminates the remaining two. It's decision making in turns, and it works just
 > as well as anything else. 
-
-
-...More at [Infodumpster](http://infodumpster.org/comments/favorites?commenter_name=&site=mefi&start_date=&end_date=).
