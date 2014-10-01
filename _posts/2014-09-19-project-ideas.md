@@ -10,7 +10,7 @@ Ideas I may eventually flesh out
 
 - What can I get for X dollars? Similar to http://www.xdollars.org/ but working.
   This will give you an idea of what X dollars are worth, and how you should
-  spend your money.
+  spend your money. Maybe just images. Maybe use machine learning to get most salient objects.
 - A review site to end all review sites. Pretty charts that say where items rank
   compared to other items on certain criteria. Dustin Curtis mentions:
 
