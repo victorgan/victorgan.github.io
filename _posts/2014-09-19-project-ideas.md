@@ -19,6 +19,13 @@ Ideas I may eventually flesh out
 > search for “toaster”, you are presented with only one model of toaster: the
 > one that 80% of people would consider to be the best toaster in the world.
 
+- Make something that makes it really easy to perform and write up small,
+  one-day experiments. 
+    - For every experiment, allow it to expand, like that list making thing.    
+    - export into markdown
+    - github/bitbucket/git backup, push
+    - map to functions you write.
+
 ### Research
 
 - Beat the background subtraction state-of-the-art (changedetection.net) using
