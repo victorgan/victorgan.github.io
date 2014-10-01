@@ -29,6 +29,7 @@ HTML advantages:
 - stored remotely, always up to date
 - hyperlinks
 - browsers
+- it's the best file explorer
 
 HTML disadvantages:
 
