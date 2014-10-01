@@ -3,18 +3,19 @@ layout: post
 title: Experiments
 ---
 
-### Experiment 1
-## Goal
+## Experiment 1
+
+### Goal
 Determine if motion history image culling or my proposed culling method is
 better.
 
-## Procedure
+### Procedure
 Used 7 identified keyframes, see if they overlap
 
 1. Find isFlagged for MHI
 2. Apply windowing function for 1.
 
-## Results
+### Results
 For MHI with windowing function:
 
 - Frames culled: 0.8444
@@ -22,40 +23,42 @@ For MHI with windowing function:
 
 Worse frames culled, better recall.
 
-## Comments
+### Comments
 Experiment seems brittle; 7 significant events are too low.
 
-### Experiment 2
-## Goal
+## Experiment 2
+
+### Goal
 Create a baseline, MHI images
 
-## Procedure
+### Procedure
 1. Get energy per frame: Run motion history on training data with parameters (30,30).
 2. Calculate a threshold on min energy for frame to be flagged; allow 90% of
    frames to not be flagged.
 3. Run MHI on test video; use calculated threshold
 4. Run windowing function on it
 
-## Results
+### Results
 - Threshold is 0.2.
 
-## Comments
+### Comments
 None.
 
-### Experiment 3a
-## Goal
+## Experiment 3a
+
+### Goal
 See if full body detections is better than head + body, then connect.
 
-## Procedure
+### Procedure
 
 1. Find large bounding boxes for full giraffes
     - [x y width height] to [x1 y1 x2 y2]
     - ymax(head rect, body rect) and xmax(head, body)
 
-## Results
+### Results
 Found. Stored in GiraffeTests/20140925 Full Giraffes
 
-## Comments
+### Comments
 None
 
 ## Experiment 3b
@@ -71,16 +74,21 @@ Find suitable box size for comparing full giraffes
 #### Average/min width and height
 >> mean(giraffeRectAMatrix(:,4:5),1)
    53.8377   52.6849
+
 >> min(giraffeRectAMatrix(:,4:5))
     47    31
+
 >> mean(giraffeRectBMatrix(:,4:5),1)
    61.1944   61.2942
+
 >> min(giraffeRectBMatrix(:,4:5))
     47    50
 
 #### Ratio
+
 >> mean(giraffeRectBMatrix(:,4)./giraffeRectBMatrix(:,5))
     1.0056
+
 >> mean(giraffeRectAMatrix(:,4)./giraffeRectAMatrix(:,5))
     1.1957
 
@@ -92,6 +100,7 @@ Taking a square size, perhap the minimum for efficiency reasons, will work.
 47 by 31 is the size of the body. Use 48 by 48.
 
 ## Experiment 3c
+
 ### Goal
 Train classifier on Video A, 8 rounds of hnm
 
@@ -110,6 +119,7 @@ Minor bug in display and calculating prec/recall, but it seems to work. Have
 classifier file.
 
 ## Experiment 3d
+
 ### Goal
 Test on Video B, record precision/recall
 
@@ -127,6 +137,7 @@ Very good results. Hm...
 ### Comments
 
 ### Experiment 3
+
 ## Goal
 4. Compare with head + body + culling
 4. run hard negative mining on all images
