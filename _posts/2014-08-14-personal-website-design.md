@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Website Design
+title: Personal Site Design
 ---
 
 All about making a website!
