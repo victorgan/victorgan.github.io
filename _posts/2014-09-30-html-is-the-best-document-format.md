@@ -7,6 +7,8 @@ Assertion: HTML is the best document format, even for school assignments.
 
 Frame it 
 
+## What's out there
+
 Generally, there are
 
 - plain text
@@ -15,6 +17,8 @@ Generally, there are
 - one note files
 - physical pen and paper
 - html files
+
+## Why it's better
 
 HTML advantages:
 
@@ -28,3 +32,13 @@ HTML disadvantages:
 
 - hard to constrain formatting
 - broken links, 
+
+## What you see is what you get
+
+Are there any benfits of clean syntax? For example, latex is very messy. It's
+hard to interpret.
+
+## Features
+
+- collaborative editing
+- cleanliness
