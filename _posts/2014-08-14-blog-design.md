@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Site Design
+title: Blog Design
 ---
 
 All about making a website!
@@ -93,6 +93,7 @@ organize their content.
 - [Graham Hicks](http://grahamhicks.com/): Cool one page design.  
 - [Becoming Minimalist](http://www.becomingminimalist.com/) has a nice taste on the large picture before content theme.
 - [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) is like something I have, but public.
+- [Jeff Atwood's Coding Horror blog](http://blog.codinghorror.com/) posts infrequently, but every post is interesting.
 
 ## Tools to Write Stuff
 
