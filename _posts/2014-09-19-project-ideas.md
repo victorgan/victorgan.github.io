@@ -27,6 +27,7 @@ Ideas I may eventually flesh out
     - map to functions you write.
     
 - Make research papers use hyperlinks. Man, it's archaic!
+- object detector with perfect precision 
 
 ### Research
 
