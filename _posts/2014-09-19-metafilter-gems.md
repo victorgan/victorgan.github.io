@@ -3,7 +3,7 @@ layout: post
 title: Metafilter Gems
 ---
 
-Metafilter is an internet community. Here's a collection of posts on metafilter I've liked, at some point. Lots of them are some of the [top favourited](http://infodumpster.org/) on the site, and I've favourited them on my account, but I decided to post them here so I can look back at them at a glance.
+[Metafilter](http://metafilter.com) is an internet community. Here's a collection of posts on metafilter I've liked, at some point. Lots of them are some of the [top favourited](http://infodumpster.org/) on the site, and I've favourited them on my account, but I decided to post them here so I can look back at them at a glance.
 
 ### [Say this not that](http://ask.metafilter.com/254331/Say-this-not-that)
 
