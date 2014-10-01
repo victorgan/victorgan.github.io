@@ -62,6 +62,7 @@ Found. Stored in GiraffeTests/20140925 Full Giraffes
 None
 
 ## Experiment 3b
+
 ### Goal
 Find suitable box size for comparing full giraffes
 
@@ -69,6 +70,7 @@ Find suitable box size for comparing full giraffes
 1. Find average height and average width; find minimum height and minimum width
 2. Use the minimum rounded to 8, 16, 32, 64?
 3. imresize to fit 64x64?
+
 ### Results
 
 #### Average/min width and height
