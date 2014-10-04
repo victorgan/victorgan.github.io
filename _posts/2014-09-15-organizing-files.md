@@ -46,6 +46,7 @@ Other options:
 
 - Google Docs: Better web edits, files centrally stored, easy collaboration, bad
   file type
+- Sparkleshare for automatic committing
 
 ### OneNote 
 
