@@ -6,9 +6,9 @@ pygments:         true
 permalink:        none
 
 # Setup
-title:            Victor Gan
+title:            Victor's Notes 
 tagline:          Website
-url:              http://victorgan.github.io
+url:              http://vgan.ca
 paginate:         1
 baseurl:          /
 author:
