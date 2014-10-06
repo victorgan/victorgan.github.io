@@ -7,3 +7,4 @@ title: RPE Problem Definition
 
 - Idenfity objects and their trajectories in egocentric videos (i.e. videos
   taken from a wheelchair)
+- RGB-D Cameras

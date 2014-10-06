@@ -1,6 +1,4 @@
-## Experiment 1
-
-### Goal
+## Goal:
 
 ### Procedure
 
