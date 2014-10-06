@@ -16,14 +16,33 @@ title: RPE Tracking State of the Art
 
 
 
-### Initial Thoughts
+## Initial Thoughts
 
-- Struck is one of the best 2D algorithms for 2011
-
-
-### State of the Art RGB Trackers
-- TLD[16], CT[29], MIL[3],
+- State of the Art RGB Trackers
+    - Struck is one of the best 2D algorithms for 2011
+    - TLD[16], CT[29], MIL[3],
 semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf))
+- There is 'RGB Trackers' (initial bounding box), 'tracking-by-detection' (training data)
+- Tracking by detection pipeline
+    - Get detections (not fully accurate)
+    - Connect detections into tracks (Hungarian algorithm, MRFs)
+
+### Research Communities
+- RGBD Object Detection
+- Pedestrian Detection
+- Object Detection in General
+- RGB Tracking
+- Tracking-By-Detection
+
+### How things Relate
+- RGBD object detection lags behind generic pedestrian detection
+    - May give better results, but room for transferring knowledge of generic pedestrian detection to RGBD object detection
+
+## People
+
+- Princeton seems to have a good RGBD tracking group
+- Washington has RGBD detection (Dieter Fox's Group)
+- Piotr knows pedestrian detection
 
 ## Papers
 
@@ -57,3 +76,10 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
     - uses color + 3d points and surface normal features
     - synthetic sequences =(
     - tested against PCL
+
+- [schmidt2014dart]({{ site.url }}/assets/papers/schmidt2014dart.pdf)
+    - parts-based ("articulated") object tracking, similar to kinect
+    - human body, human hand, visual servoing
+
+- [lai2013rgb]({{ site.url }}/assets/papers/lai2013rgb.pdf)
+    - Book chapter on RGBD Object Detection
