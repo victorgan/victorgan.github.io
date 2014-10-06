@@ -13,10 +13,18 @@ title: RPE Tracking State of the Art
 4. Take saved papers and link them here
 5. Write up a brief literature review
 
-### Results
 
-#### Initial Searches
 
-[http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
+### Initial Thoughts
 
-[song2013tracking]({{ site.url }}/assets/song2013tracking.pdf)
+- Struck is one of the best 2D algorithms for 2011
+
+### Benchmarks
+
+##### Princeton Tracking Benchmark: [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
+
+- 100 RGBD videos
+- 15 evaluated algorithms
+	- 
+- mostly traditional generic 'tracking', no 'tracking-by-detection'
+- [song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf)
