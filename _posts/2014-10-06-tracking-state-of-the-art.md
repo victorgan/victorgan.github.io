@@ -25,10 +25,23 @@ title: RPE Tracking State of the Art
 - TLD[16], CT[29], MIL[3],
 semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf))
 
+## Papers
+
 ### Princeton Tracking Benchmark: [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
 
+- [song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf)
 - 100 RGBD videos
 - 15 evaluated algorithms
-	- 
+	- baseline does the best
 - mostly traditional generic 'tracking', no 'tracking-by-detection'
-- [song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf)
+
+### SUN3D: A Database of Big Spaces Reconstructed using SfM and Object Labels
+
+- [xiao2013sun3d]({{ site.url }}/assets/papers/xiao2013sun3d.pdf)
+- big database of human-view RGBD videos, annotated
+- 3d construction/labelling tool
+- [http://sun3d.cs.princeton.edu/](http://sun3d.cs.princeton.edu/)
+
+## Papers To Read
+
+- You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking       [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
