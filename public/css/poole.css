@@ -93,6 +93,10 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  text-decoration: underline;
+  -moz-text-decoration-color: red; /* Code for Firefox */
+  text-decoration-color: red;
+
 }
 h3 {
   margin-top: 1.5rem;
