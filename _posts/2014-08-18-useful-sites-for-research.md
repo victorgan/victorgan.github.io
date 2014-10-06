@@ -146,4 +146,4 @@ It's useful to have Matlab with the following toolboxes:
 
 ### Additions
 If there's anything you think would fit here, feel free to comment below (check 'I'd rather post as guest' and put a bogus
-email if you'd rather keep anonymous) or email me at victorgan ( at ) gmail.com.
+email if you'd rather keep anonymous) 

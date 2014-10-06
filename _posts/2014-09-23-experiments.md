@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Experiments
+title: Giraffe Experiments
 ---
-
 ## Experiment 1
 
 ### Goal
@@ -44,7 +43,7 @@ Create a baseline, MHI images
 ### Comments
 None.
 
-## Experiment 3a
+## Experiment 3
 
 ### Goal
 See if full body detections is better than head + body, then connect.
@@ -61,7 +60,7 @@ Found. Stored in GiraffeTests/20140925 Full Giraffes
 ### Comments
 None
 
-## Experiment 3b
+## Experiment 4
 
 ### Goal
 Find suitable box size for comparing full giraffes
@@ -101,7 +100,7 @@ Taking the Min doesn't say anything because it doesn't match the body-heads.
 Taking a square size, perhap the minimum for efficiency reasons, will work.
 47 by 31 is the size of the body. Use 48 by 48.
 
-## Experiment 3c
+## Experiment 5
 
 ### Goal
 Train classifier on Video A, 8 rounds of hnm
@@ -120,7 +119,7 @@ I'm trashing my code. Note to self: make smaller functions.
 Minor bug in display and calculating prec/recall, but it seems to work. Have
 classifier file.
 
-## Experiment 3d
+## Experiment 6
 
 ### Goal
 Test on Video B, record precision/recall
@@ -130,23 +129,12 @@ Test on Video B, record precision/recall
 2. Since featuresFromRectsIndicies and baseBoxSizes already changed, don't have
    to do much
 3. Fix errors
-E:\Personal Documents\2014 Disney\GiraffeTests\0926TestOut\clsfy-hog-svm-VideoA-VideoB_001fps\thresh_0.6\images
 
 ### Results
 2014-09-26 Fri 04:49 PM
-Very good results. Hm...
+good results. Hm...
+See:
+
+E:\Personal Documents\2014 Disney\GiraffeTests\0926TestOut\clsfy-hog-svm-VideoA-VideoB_001fps\thresh_0.6\images
 
 ### Comments
-
-### Experiment 3
-
-## Goal
-4. Compare with head + body + culling
-4. run hard negative mining on all images
-5. test on X
-
-## Procedure
-
-## Results
-
-## Comments
