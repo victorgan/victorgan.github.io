@@ -45,3 +45,6 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 ## Papers To Read
 
 - You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking       [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
+- Robust tracking-by-detection using a detector confidence particle filter
+[breitenstein2009robust]({{ site.url }}/assets/papers/breitenstein2009robust.pdf)
+
