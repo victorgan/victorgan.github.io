@@ -83,3 +83,6 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 
 - [lai2013rgb]({{ site.url }}/assets/papers/lai2013rgb.pdf)
     - Book chapter on RGBD Object Detection
+
+- [munaro2012tracking]({{ site.url }}/assets/papers/munaro2012tracking.pdf)
+    - Tracking people within groups with RGB-D data
