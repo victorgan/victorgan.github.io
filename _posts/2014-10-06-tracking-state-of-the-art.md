@@ -12,6 +12,7 @@ title: RPE Tracking State of the Art
 3. List important people and research groups
 4. Take saved papers and link them here
 5. Write up a brief literature review
+6. Go over previous tracking papers
 
 
 
@@ -19,9 +20,12 @@ title: RPE Tracking State of the Art
 
 - Struck is one of the best 2D algorithms for 2011
 
-### Benchmarks
 
-##### Princeton Tracking Benchmark: [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
+### State of the Art RGB Trackers
+- TLD[16], CT[29], MIL[3],
+semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf))
+
+### Princeton Tracking Benchmark: [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
 
 - 100 RGBD videos
 - 15 evaluated algorithms
