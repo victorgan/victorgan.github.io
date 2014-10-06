@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RPE: Problem Definition
+title: RPE Problem Definition
 ---
 
 ## Problem Definition
