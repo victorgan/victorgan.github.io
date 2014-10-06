@@ -12,6 +12,12 @@ title: RPE Overview
 
 ### Procedure
 
-### Results
+1. Google Scholar Search: 'tracking'
+2. List benchmarks and datasets
+3. List important people and research groups
+4. Take saved papers and link them here
+5. Write up a brief literature review
 
-### Comments
+## Goal: Get testbed working
+
+### Procedure
