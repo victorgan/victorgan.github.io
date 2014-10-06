@@ -13,6 +13,10 @@ title: RPE Tracking State of the Art
 4. Take saved papers and link them here
 5. Write up a brief literature review
 
-## Goal: Get testbed working
+### Results
 
-### Procedure
+#### Initial Searches
+
+[http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
+
+[song2013tracking]({{ site.url }}/assets/song2013tracking.pdf)
