@@ -27,15 +27,17 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 
 ## Papers
 
-### Princeton Tracking Benchmark: [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
+### song2013tracking
 
+- Princeton Tracking Benchmark
 - [song2013tracking]({{ site.url }}/assets/papers/song2013tracking.pdf)
+- [http://tracking.cs.princeton.edu/](http://tracking.cs.princeton.edu/)
 - 100 RGBD videos
 - 15 evaluated algorithms
-	- baseline does the best
+    - baseline does the best
 - mostly traditional generic 'tracking', no 'tracking-by-detection'
 
-### SUN3D: A Database of Big Spaces Reconstructed using SfM and Object Labels
+### xiao2013sun3d
 
 - [xiao2013sun3d]({{ site.url }}/assets/papers/xiao2013sun3d.pdf)
 - big database of human-view RGBD videos, annotated
@@ -44,7 +46,14 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 
 ## Papers To Read
 
-- You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking       [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
-- Robust tracking-by-detection using a detector confidence particle filter
-[breitenstein2009robust]({{ site.url }}/assets/papers/breitenstein2009robust.pdf)
+- [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
+    - You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking
 
+- [breitenstein2009robust]({{ site.url }}/assets/papers/breitenstein2009robust.pdf)
+    - Robust tracking-by-detection using a detector confidence particle filter
+
+- [choi2013rgb]({{ site.url }}/assets/papers/choi2013rgb.pdf)
+    - Particle filter RGBD tracking, efficiently on CUDA GPU (real-time)
+    - uses color + 3d points and surface normal features
+    - synthetic sequences =(
+    - tested against PCL

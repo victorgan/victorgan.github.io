@@ -14,5 +14,6 @@ title: RPE Problem Definition
 - Treats moving objects and stationary objects in a unified framework
 - Detect -any- object (people, benches, tables, chairs, walls)
 - Localize
+- Beats state-of-the-art: computational efficiency, accuracy, simplicity
 
 ## Old Thoughts
