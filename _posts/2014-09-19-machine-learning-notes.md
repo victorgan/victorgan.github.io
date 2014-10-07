@@ -5,6 +5,12 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
+### October 2014
+
+Deep Learning: Methods and Applications 
+
+- [2014-09-19-deeplearning]({{ site.url }}/assets/posts/2014-09-19-deeplearning.pdf)
+
 ### September 2014
 (http://image-net.org/challenges/LSVRC/2014/slides/GoogLeNet.pptx)
 
