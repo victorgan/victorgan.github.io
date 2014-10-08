@@ -62,6 +62,8 @@ Concepts Notebook: Basically a personal Wikipedia for common topics.
 
 - (+): Easily accessible by others and myself
 - (+): Easily editable. OneNote notes lends itself to writing down quick notes. I don't like editing them, though, perhaps because there's too many degrees of freedom to get it 'just right': for example, you can move the image arbitrarily. HTML is rendered a specific way, and this constraint makes it easier to make iterative edits to 'perfect' a post.
+- (+): A good file format
+- (+): As we know, you don't understand something unless you teach it, or write it down. Writing down long, constructed posts lets met articulate and organize my ideas clearly both on the page and in my head.
 
 ### Books to Read
 Goodreads.com
