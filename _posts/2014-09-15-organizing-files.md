@@ -48,13 +48,19 @@ Other options:
   file type
 - Sparkleshare for automatic committing
 
-### OneNote 
+### Notes
+
+#### OneNote: Quick and dirty thought dump
 
 Concepts Notebook: Basically a personal Wikipedia for common topics.
 
 - (+): Very easy to write quick and dirty ideas
 - (+): Ideas stores in a central location
 - (-): Proprietary file format. It can export to pdf, though terribly.
+
+#### Website: Thoughts conceptualized into coherent ideas
+
+- (+): Easily accessible by others and myself
 
 ### Books to Read
 Goodreads.com
