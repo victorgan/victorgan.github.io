@@ -18,7 +18,9 @@ title: RPE Problem Definition
 - Velocity prediction, or using velocity information from other sensor
 - Beats state-of-the-art: computational efficiency, accuracy, simplicity
 - Object detector: robust to bad training data
-- Object detector: robust to training data that does not represent the population distribution
+- Object detector: robust to training data that does not represent the
+  population distribution
+
 
 
 ## Old Thoughts

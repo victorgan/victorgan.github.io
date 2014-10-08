@@ -56,6 +56,9 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
     - baseline does the best
 - mostly traditional generic 'tracking', no 'tracking-by-detection'
 
+### Spinello's Dataset
+- [spinello](http://www2.informatik.uni-freiburg.de/~spinello/RGBD-dataset.html)
+
 ### xiao2013sun3d
 
 - [xiao2013sun3d]({{ site.url }}/assets/papers/xiao2013sun3d.pdf)

@@ -33,3 +33,8 @@ Ideas I may eventually flesh out
 
 - Beat the background subtraction state-of-the-art (changedetection.net) using
   statistics. So far, it's very 'hand-crafted'
+- Ideas to make classifiers more robust/less biased/lower variance: statistical
+  bootstrap methods, adversarial 
+- Problem: given a small (non-big-data) dataset, how do you make the most out of
+  it - how do you ensure it generalizes, how do you statistically model the
+  generating population distribution (if we need to)? 
