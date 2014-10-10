@@ -2,9 +2,7 @@
 layout: post
 title: Web Excursions
 ---
-The term humbly copied from http://brettterpstra.com/. Things I've found on the
-web that interest me.
-
+### October 2014
 
 - [Janteloven](http://en.wikipedia.org/wiki/Law_of_Jante)
   
