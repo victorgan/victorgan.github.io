@@ -20,6 +20,7 @@ web that interest me.
   > - You're not to laugh at us.
   > - You're not to think anyone cares about you.
   > - You're not to think you can teach us anything.
+  > 
   > These ten principles or commandments are often claimed to form the "Jante's Shield" of the Scandinavian people.
   > In the book, the Janters who transgress this unwritten 'law' are regarded with suspicion and some hostility, as it goes   >   > against the town's communal desire to preserve harmony, social stability and uniformity.
 
