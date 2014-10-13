@@ -2,6 +2,7 @@
 layout: post
 title: Web Excursions
 ---
+
 ### October 2014
 
 - [Janteloven](http://en.wikipedia.org/wiki/Law_of_Jante)
