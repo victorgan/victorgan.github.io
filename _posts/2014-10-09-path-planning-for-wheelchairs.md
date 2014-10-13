@@ -18,11 +18,19 @@ the wheelchair take care of avoiding obstacles, streetlights, etc.
 
 ## Game Path Planning
 Some initial research on how games like starcraft implement path planning.
+
 - [Starcraft path finding hack](http://www.codeofhonor.com/blog/the-starcraft-path-finding-hack): they
   made SCVs float to avoid having to do path planning all the time.
 - [Stackoverflow on Starcraft path planning](http://gamedev.stackexchange.com/questions/62881/how-to-do-starcraft-pathfinding)
 - [Programming Game AI By Example]({% post_url 2014-10-09-programming-game-ai-by-example-mat-buckland.pdf %}).
+- [Starcraft 2 Pathfinding](http://www.gamedev.net/topic/648438-how-to-do-starcraft-2-pathfinding/): Starcraft II uses a constrained Delaunay triangulation of the map terrain and buildings to produce a navmesh; A* with a funnel filter is used to path along this mesh, taking into account unit radii; then local steering and collision avoidance layers are added on top of that
 
+
+## Predicting
+Input: Perfect tracks of past performance
+Output: Predicted tracks
+
+- [walker2014patch]({{ site.url }}/assets/papers/walker2014patch.pdf)
 
 ## Ideas
 
