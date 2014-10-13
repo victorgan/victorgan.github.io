@@ -5,18 +5,6 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
-### October 13, 2014
-[Google's Smart Autofill Spreadsheet Add
-On](https://cloud.google.com/prediction/docs/smart_autofill_add_on):
-
-> Smart Autofill is a Google Spreadsheets Add On that uses the Prediction API
-> for performing Machine Learning directly in a Google Spreadsheet.
-
-This could be useful for quickly predicting things. Put your features in a
-spreadsheet with the training data and labels, put in your unlabelled test data,
-and run. If anything, it'll give a good benchmark for performance with almost no
-development time.
-
 ### October 8, 2014
 
 
