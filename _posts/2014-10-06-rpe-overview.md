@@ -14,8 +14,3 @@ title: RPE Overview
 - Use Caffe features
 - Try simplest: tracking-by-detection with Hungarian algorithm
 - Try struck, TLD, MIL, etc, "generic RGB" trackers
-
-## Questions
-
-- Why not X, where X is...
-    - Deep learning?
