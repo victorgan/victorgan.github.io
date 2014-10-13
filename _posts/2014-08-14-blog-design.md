@@ -64,7 +64,7 @@ git repository, random text file, or folder on Dropbox that I have to remember.
 ### Things I would like to change
 
 - <del>Permalinks of posts. I'd like them to be simpler.</del>
-- On the main page; it lists the date, then post title. It looks sort of ugly.
+- <del>On the main page; it lists the date, then post title. It looks sort of ugly.</del>
 - Ordering of posts. Reverse chronological doesn't seem like the best decision,
   given I'm updating posts frequently. Although I don't know what would be
   better.
