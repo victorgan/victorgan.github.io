@@ -5,6 +5,11 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
+### October 10, 2014
+[The most cited papers in Computer Vision](http://computervisionblog.wordpress.com/2012/02/10/the-most-cited-papers-in-computer-vision/)
+
+[Machine Learning Survey Papers](http://www.mlsurveys.com/)
+
 ### October 8, 2014
 
 
