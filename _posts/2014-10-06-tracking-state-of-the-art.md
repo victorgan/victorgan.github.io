@@ -66,6 +66,12 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 - 3d construction/labelling tool
 - [http://sun3d.cs.princeton.edu/](http://sun3d.cs.princeton.edu/)
 
+
+### danelljan2014adaptive
+
+- [danelljan2014adaptive]({{ site.url }}/assets/papers/danelljan2014adaptive.pdf)
+- Adaptive Color Attributes for Real-Time Visual Tracking
+
 ## Papers To Read
 
 - [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
