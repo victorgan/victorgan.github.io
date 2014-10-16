@@ -204,6 +204,16 @@ Questions I have, or once had.
 They both combine many decision trees.
 Boosted trees uses boosting, random forest uses bagging.
 
+> Different machine learning problems have different characteristics. Boosted algorithms in particular are sensitive to overfitting if the data is noisy -- boosting exhibits higher variance (in the sense of the bias-variance tradeoff discussed here: http://en.wikipedia.org/wiki/Sup...), but when it does work, it works well. 
+> 
+> Random forests, on the other hand, show very low variance, because the ensembles are not built on the residuals the way Gradient-boosted Machines does. 
+> 
+> In short: you have to try both out on your problem domain; sometimes random forests will match the data's biases better and sometimes GBM will.
+
+> There is one fundamental difference between the two that may force you to choose Random Forests over Gradient Boosted Machines (GBMs). That is, Random Forests can be easily deployed in a distributed fashion due to the fact that they can run in parallel, whereas Gradient Boosted Machines only run trial after trial. So, if you are constrained either by the size of the data or the number of trials you want to try, you may have to go with random forests.
+
+
+
 #### What are common classifiers?
 
 #### Any online plug-n-play ML solutions?
