@@ -212,6 +212,9 @@ Boosted trees uses boosting, random forest uses bagging.
 
 > There is one fundamental difference between the two that may force you to choose Random Forests over Gradient Boosted Machines (GBMs). That is, Random Forests can be easily deployed in a distributed fashion due to the fact that they can run in parallel, whereas Gradient Boosted Machines only run trial after trial. So, if you are constrained either by the size of the data or the number of trials you want to try, you may have to go with random forests.
 
+> - boosting should work better if you have a small number of trees, because it is making smarter (non-random) decisions.
+> - random forests will tend to work better if you can afford a larger number of trees, because it doesn't tend to overfit.
+> Random forests will also be faster to train each tree, because of the random decisions.
 
 
 #### What are common classifiers?
