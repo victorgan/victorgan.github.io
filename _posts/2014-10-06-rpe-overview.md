@@ -8,6 +8,10 @@ title: RPE Overview
 
 - [Problem Definition]({% post_url 2014-10-06-rpe-problem %})
 - [Tracking State of the Art]({% post_url 2014-10-06-tracking-state-of-the-art %})
+- [Path Planning for Wheelchairs]({% post_url 2014-10-09-path-planning-for-wheelchairs %})
+- [Object Proposals]({% post_url 2014-10-16-object-proposals %})
+- [Path Planning for Wheelchairs]({% post_url 2014-10-09-path-planning-for-wheelchairs %})
+
 
 ## Ideas
 
