@@ -30,7 +30,12 @@ Some initial research on how games like starcraft implement path planning.
 Input: Perfect tracks of past performance
 Output: Predicted tracks
 
-- [walker2014patch]({{ site.url }}/assets/papers/walker2014patch.pdf)
+[walker2014patch]({{ site.url }}/assets/papers/walker2014patch.pdf):
+
+- predict movements from images
+- builds on 'mid-level elements' [3]
+- previous methods: optical flow or point objects
+
 
 ## Ideas
 

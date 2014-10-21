@@ -5,6 +5,18 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
+### October 20, 2014
+
+[http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html](http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html):
+
+> Stochastic Averaged Gradient reaches this goal with a simple modification of stochastic gradient. The idea is that at each gradient step, in addition to the gradient computed for the current data point, you also add up all the gradients computed on previous datapoints. Those gradients may be out of date, but for strongly convex loss with convex component functions, this staleness doesn't hurt.
+
+
+### October 10, 2014
+[The most cited papers in Computer Vision](http://computervisionblog.wordpress.com/2012/02/10/the-most-cited-papers-in-computer-vision/)
+
+[Machine Learning Survey Papers](http://www.mlsurveys.com/)
+
 ### October 8, 2014
 
 
@@ -203,6 +215,19 @@ Questions I have, or once had.
 
 They both combine many decision trees.
 Boosted trees uses boosting, random forest uses bagging.
+
+> Different machine learning problems have different characteristics. Boosted algorithms in particular are sensitive to overfitting if the data is noisy -- boosting exhibits higher variance (in the sense of the bias-variance tradeoff discussed here: http://en.wikipedia.org/wiki/Sup...), but when it does work, it works well. 
+> 
+> Random forests, on the other hand, show very low variance, because the ensembles are not built on the residuals the way Gradient-boosted Machines does. 
+> 
+> In short: you have to try both out on your problem domain; sometimes random forests will match the data's biases better and sometimes GBM will.
+
+> There is one fundamental difference between the two that may force you to choose Random Forests over Gradient Boosted Machines (GBMs). That is, Random Forests can be easily deployed in a distributed fashion due to the fact that they can run in parallel, whereas Gradient Boosted Machines only run trial after trial. So, if you are constrained either by the size of the data or the number of trials you want to try, you may have to go with random forests.
+
+> - boosting should work better if you have a small number of trees, because it is making smarter (non-random) decisions.
+> - random forests will tend to work better if you can afford a larger number of trees, because it doesn't tend to overfit.
+> Random forests will also be faster to train each tree, because of the random decisions.
+
 
 #### What are common classifiers?
 
