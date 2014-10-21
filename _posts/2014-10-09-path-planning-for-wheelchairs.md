@@ -35,7 +35,6 @@ Output: Predicted tracks
 - predict movements from images
 - builds on 'mid-level elements' [3]
 - previous methods: optical flow or point objects
-- 
 
 
 ## Ideas
