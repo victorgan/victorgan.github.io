@@ -5,6 +5,13 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
+### October 20, 2014
+
+[http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html](http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html):
+
+> Stochastic Averaged Gradient reaches this goal with a simple modification of stochastic gradient. The idea is that at each gradient step, in addition to the gradient computed for the current data point, you also add up all the gradients computed on previous datapoints. Those gradients may be out of date, but for strongly convex loss with convex component functions, this staleness doesn't hurt.
+
+
 ### October 10, 2014
 [The most cited papers in Computer Vision](http://computervisionblog.wordpress.com/2012/02/10/the-most-cited-papers-in-computer-vision/)
 
