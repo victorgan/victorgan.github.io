@@ -5,6 +5,13 @@ title: Machine Learning Notes
 
 ## Notes from news in machine learning.
 
+### October 21, 2014
+
+Mark Schmidt on further machine learning topics:
+
+> The 'advanced' machine learning dealt with issues relating to interacting with the world. I.e., in 540 all of the models we cover assume that you are passively observing the world. More advanced models consider that we can interact with the world, and that our choices might actually change the external world. Some keywords would be active learning, Markov decision processes, influence diagrams, causality, and reinforcement learning. All of these topics build on the basics from 540, but add extras to take into account the effects of actions.
+
+
 ### October 20, 2014
 
 [http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html](http://yaroslavvb.blogspot.ca/2014/03/stochastic-gradient-methods-2014.html):
