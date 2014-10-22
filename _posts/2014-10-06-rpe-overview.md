@@ -12,6 +12,13 @@ title: RPE Overview
 - [Object Proposals]({% post_url 2014-10-16-object-proposals %})
 - [Path Planning for Wheelchairs]({% post_url 2014-10-09-path-planning-for-wheelchairs %})
 
+## Research Topics
+- [Object Proposals]({% post_url 2014-10-16-object-proposals %})
+
+## Paper Summaries
+- [walker2014patch: Patch to the Future: Unsupervised Visual Prediction]({% post_url 2014-10-21-walker2014patch %})
+
+
 
 ## Ideas
 
