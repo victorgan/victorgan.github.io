@@ -22,7 +22,7 @@ Some initial research on how games like starcraft implement path planning.
 - [Starcraft path finding hack](http://www.codeofhonor.com/blog/the-starcraft-path-finding-hack): they
   made SCVs float to avoid having to do path planning all the time.
 - [Stackoverflow on Starcraft path planning](http://gamedev.stackexchange.com/questions/62881/how-to-do-starcraft-pathfinding)
-- [Programming Game AI By Example](({{ site.url }}/assets/posts/2014-10-09-programming-game-ai-by-example-mat-buckland.pdf)).
+- [Programming Game AI By Example]({{ site.url }}/assets/posts/2014-10-09-programming-game-ai-by-example-mat-buckland.pdf).
 - [Starcraft 2 Pathfinding](http://www.gamedev.net/topic/648438-how-to-do-starcraft-2-pathfinding/):
   Starcraft II uses a constrained Delaunay triangulation of the map terrain and
   buildings to produce a navmesh; A star with a funnel filter is used to path along
