@@ -50,6 +50,10 @@ Other options:
 
 ### Notes
 
+### Search History
+
+[https://www.google.com/history](https://www.google.com/history): surprisingly insightful.
+
 #### OneNote: Quick and dirty thought dump
 
 Concepts Notebook: Basically a personal Wikipedia for common topics.
