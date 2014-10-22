@@ -139,3 +139,4 @@ Here's a checklist, mainly based off this
 - Active voice
 - Use all the space available (no trailing space in last page)
 - Use colour in the text if appropriate
+- References: Uses standard conference acronyms to save space?
