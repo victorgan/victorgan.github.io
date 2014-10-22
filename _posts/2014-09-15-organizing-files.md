@@ -52,7 +52,7 @@ Other options:
 
 ### Search History
 
-[https://www.google.com/history](https://www.google.com/history): surprisingly insightful.
+[Google Search History](http://www.google.com/history/lookup?q=&output=rss&num=1000): surprisingly insightful.
 
 #### OneNote: Quick and dirty thought dump
 
