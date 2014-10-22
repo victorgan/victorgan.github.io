@@ -50,9 +50,6 @@ Other options:
 
 ### Notes
 
-### Search History
-
-[Google Search History](http://www.google.com/history/lookup?q=&output=rss&num=1000): surprisingly insightful.
 
 #### OneNote: Quick and dirty thought dump
 
@@ -69,8 +66,16 @@ Concepts Notebook: Basically a personal Wikipedia for common topics.
 - (+): A good file format
 - (+): As we know, you don't understand something unless you teach it, or write it down. Writing down long, constructed posts lets met articulate and organize my ideas clearly both on the page and in my head.
 
-### Books to Read
-Goodreads.com
+### Things I use
+
+- [Goodreads.com](http://goodreads.com): books to read
+- [Google Scholar Library](http://scholar.google.ca/scholar?scilib=1&hl=en&as_sdt=0,5): papers I've read
+- [Google Search History](http://www.google.com/history/lookup?q=&output=rss&num=1000): surprisingly insightful.
+
+- [Google Bookmarks](https://www.google.ca/bookmarks/): bookmarks with search
+- [Pinboard](https://pinboard.in/): bookmark site
+- [Pocket](http://getpocket.com/a/queue/): another bookmark site
+
 
 ### Other Files to Organize
 
