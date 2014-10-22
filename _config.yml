@@ -6,7 +6,7 @@ pygments:         true
 permalink:        none
 
 # Setup
-title:            Victors Notes 
+title:            Victor's Notes 
 tagline:          Website
 url:              http://vgan.ca
 paginate:         1
