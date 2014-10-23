@@ -85,6 +85,7 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 - Microsoft's CVPR 2014 hand tracking paper
 - [qian2014realtime]({{ site.url }}/assets/papers/qian2014realtime.pdf)
 - Local optimization + Initialization by part detection
+- have a cost function on potential poses. Given input data, optimize to reduce this cost function by initializing at 'pose detection' points and 'previous frame' points.
 
 > Tracking from only the last frame is fragile. Recent advances in human body tracking [24, 1, 15, 30, 27] have
 > proven that the capability of re-initialization on every frame
