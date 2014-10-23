@@ -29,6 +29,7 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 
 ### Research Communities
 - RGBD Object Detection
+    - not a lot of machine learning has been done here
 - Pedestrian Detection
 - Object Detection in General
 - RGB Tracking
@@ -78,6 +79,16 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 
 - Dataset: [http://cs.stanford.edu/people/teichman/stc/](http://cs.stanford.edu/people/teichman/stc/)
 - Towards 3d object recognition via classification of arbitrary object tracks (RSS 2013)
+
+## Realtime and Robust Hand Tracking from Depth
+
+- Microsoft's CVPR 2014 hand tracking paper
+- [qian2014realtime]({{ site.url }}/assets/papers/qian2014realtime.pdf)
+- Local optimization + Initialization by part detection
+
+> Tracking from only the last frame is fragile. Recent advances in human body tracking [24, 1, 15, 30, 27] have
+> proven that the capability of re-initialization on every frame
+> is critical for robust tracking.
 
 ## Papers To Read
 
