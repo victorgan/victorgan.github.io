@@ -72,6 +72,12 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 - [danelljan2014adaptive]({{ site.url }}/assets/papers/danelljan2014adaptive.pdf)
 - Adaptive Color Attributes for Real-Time Visual Tracking
 
+
+### velocity from RGB-D
+
+- Dataset: [http://cs.stanford.edu/people/teichman/stc/](http://cs.stanford.edu/people/teichman/stc/)
+- Towards 3d object recognition via classification of arbitrary object tracks (RSS 2013)
+
 ## Papers To Read
 
 - [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
