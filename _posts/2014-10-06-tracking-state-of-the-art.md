@@ -37,6 +37,7 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 ### How things Relate
 - RGBD object detection lags behind generic pedestrian detection
     - May give better results, but room for transferring knowledge of generic pedestrian detection to RGBD object detection
+- Point cloud based features are a lot easier to track because they're already somewhat segmented.
 
 ## People
 
