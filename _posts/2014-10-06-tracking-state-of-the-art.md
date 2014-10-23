@@ -91,6 +91,11 @@ semi-B[13], Struck[14] and VTD[17] ([song2013tracking]({{ site.url }}/assets/pap
 > proven that the capability of re-initialization on every frame
 > is critical for robust tracking.
 
+## KLT Tracker
+
+- even a basic KLT tracker can predict motion
+- http://www.youtube.com/watch?v=tzO245uWQxA&t=27m12s
+
 ## Papers To Read
 
 - [pellegrini2009you]({{ site.url }}/assets/papers/pellegrini2009you.pdf)
