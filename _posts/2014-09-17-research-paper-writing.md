@@ -36,8 +36,8 @@ title: Research Paper Writing
 
 ## Checklist
 Here's a checklist, mainly based off this 
-[KDD Tutorial]({{ site.url }}/assets/posts/2014-09-17-kdd) and 
-[This presentation]({{ site.url }}/assets/posts/2014-09-17-cvprpapers)
+[KDD Tutorial]({{ site.url }}/assets/posts/2014-09-17-kdd.pdf) and 
+[This presentation]({{ site.url }}/assets/posts/2014-09-17-cvprpapers.pdf)
 
 - Research Problem
     -  Can you write the research statement in one sentence?
