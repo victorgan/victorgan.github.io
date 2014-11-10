@@ -144,6 +144,10 @@ It's useful to have Matlab with the following toolboxes:
 - [VLFeat](http://www.vlfeat.org/matlab/matlab.html)
 - [Piotr's Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 - [Other useful Matlab Resources](http://www.csse.uwa.edu.au/~pk/research/matlabfns/othersites.html)
+- [http://graphics.cs.msu.ru/ru/science/research/machinelearning/adaboosttoolbox](http://graphics.cs.msu.ru/ru/science/research/machinelearning/adaboosttoolbox)
+- [http://asi.insa-rouen.fr/enseignants/~arakotom/toolbox/index.html](http://asi.insa-rouen.fr/enseignants/~arakotom/toolbox/index.html)
+- [http://svmlight.joachims.org/](http://svmlight.joachims.org/)
+- [http://gaussianprocess.org/gpml/](http://gaussianprocess.org/gpml/)
 
 ### Additions
 If there's anything you think would fit here, feel free to comment below (check 'I'd rather post as guest' and put a bogus
