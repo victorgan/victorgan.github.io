@@ -148,6 +148,7 @@ It's useful to have Matlab with the following toolboxes:
 - [http://asi.insa-rouen.fr/enseignants/~arakotom/toolbox/index.html](http://asi.insa-rouen.fr/enseignants/~arakotom/toolbox/index.html)
 - [http://svmlight.joachims.org/](http://svmlight.joachims.org/)
 - [http://gaussianprocess.org/gpml/](http://gaussianprocess.org/gpml/)
+- [https://sites.google.com/site/alainrakotomamonjy/](https://sites.google.com/site/alainrakotomamonjy/)
 
 ### Additions
 If there's anything you think would fit here, feel free to comment below (check 'I'd rather post as guest' and put a bogus
