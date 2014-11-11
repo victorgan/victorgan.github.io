@@ -26,6 +26,7 @@ Rich feature hierarchies for accurate object detection and semantic segmentation
 > the particular region proposal method, we use selective search to enable a
 > controlled comparison with prior detection work (e.g., [39, 41]).
 
+[http://pdollar.wordpress.com/2013/12/22/generating-object-proposals/](http://pdollar.wordpress.com/2013/12/22/generating-object-proposals/)
 
 # Mid-Level Features
 
