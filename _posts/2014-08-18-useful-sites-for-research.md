@@ -100,6 +100,7 @@ Bad:
   conferences.
 - [Microsoft Academic Search](http://academic.research.microsoft.com/): Ranks people, conferences, universities, and publication by field of research
 - [Rankings for common computer vision datasets](http://rodrigob.github.io/are_we_there_yet/build/)
+- [http://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms](http://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms)
 
 ### General 'Advice' Pages
 - [How to learn on your own](http://www.metacademy.org/roadmaps/rgrosse/learn_on_your_own)
