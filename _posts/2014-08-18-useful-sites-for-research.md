@@ -101,6 +101,10 @@ Bad:
 - [Microsoft Academic Search](http://academic.research.microsoft.com/): Ranks people, conferences, universities, and publication by field of research
 - [Rankings for common computer vision datasets](http://rodrigob.github.io/are_we_there_yet/build/)
 - [http://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms](http://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms)
+- [Most cited papers from CVPR](http://scholar.google.ca/citations?hl=en&vq=eng_computervisionpatternrecognition&view_op=list_hcore&venue=l60tToE7K3UJ.2014)
+- [Most cited papers from ICCV](http://scholar.google.ca/citations?hl=en&vq=eng_computervisionpatternrecognition&view_op=list_hcore&venue=PotJioSyHM8J.2014)
+- [Most cited papers from ECCV](http://scholar.google.ca/citations?hl=en&vq=eng_computervisionpatternrecognition&view_op=list_hcore&venue=sRZyLQvTcTQJ.2014)
+- 
 
 ### General 'Advice' Pages
 - [How to learn on your own](http://www.metacademy.org/roadmaps/rgrosse/learn_on_your_own)
