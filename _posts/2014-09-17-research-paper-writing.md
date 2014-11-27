@@ -37,7 +37,7 @@ title: Research Paper Writing
 ## Checklist
 Here's a checklist, mainly based off this 
 [KDD Tutorial]({{ site.url }}/assets/posts/2014-09-17-kdd.pdf) and 
-[This presentation]({{ site.url }}/assets/posts/2014-09-17-cvprpapers.pdf)
+[This presentation]({{ site.url }}/assets/posts/2014-09-17-cvprpapers.pdf) [todo include this]
 
 - Research Problem
     -  Can you write the research statement in one sentence?
@@ -141,3 +141,5 @@ Here's a checklist, mainly based off this
 - Use all the space available (no trailing space in last page)
 - Use colour in the text if appropriate
 - References: Uses standard conference acronyms to save space?
+- Supplementary material:
+    - Add clarification tables that would otherwise be too trivial
