@@ -31,6 +31,8 @@ TODO add: [http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a
     - References
 5. Send preview to mock reviewers
     - Get people to explain (I got lost here) instead of (X is misspelled)
+    - Read every criticism as a positive suggestion for something you could explain more clearly
+    - DO NOT respond "you stupid person, I meant X". Fix the paper so that X is apparent even to the stupidest reader.
 6. Send preview to the rival authors (virtually or literally) (Now is about one
    month before the deadline)
 7. Revise using checklist
