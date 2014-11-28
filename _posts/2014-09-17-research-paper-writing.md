@@ -6,6 +6,12 @@ TODO add: [http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a
 
 [http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
 
+http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf
+
+http://www.cs.cmu.edu/~jmankoff/advice.html
+
+http://cs.stanford.edu/people/widom/paper-writing.html
+
 ## Algorithm
 
 1. Find problem/data
