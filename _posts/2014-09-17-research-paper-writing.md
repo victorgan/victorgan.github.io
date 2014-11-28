@@ -4,6 +4,8 @@ title: Research Paper Writing
 ---
 TODO add: [http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
+[http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+
 ## Algorithm
 
 1. Find problem/data
