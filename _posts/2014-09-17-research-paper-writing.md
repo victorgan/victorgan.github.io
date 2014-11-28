@@ -143,6 +143,7 @@ Here's a checklist, mainly based off this
     -  "In this paper" remove
     -  Actual (no meanings in sentence, remove)
     -  Theoretically (no meaning, remove)
+    -  "There is a need"
 - Avoid weak language:
     -  Prefer "it will" vs "might" or "has been shown"
     -  Do not say "attempt", "aiming"
