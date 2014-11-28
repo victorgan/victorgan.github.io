@@ -2,6 +2,7 @@
 layout: post
 title: Research Paper Writing
 ---
+TODO add: [http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
 ## Algorithm
 
