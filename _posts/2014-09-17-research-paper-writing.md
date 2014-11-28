@@ -148,6 +148,22 @@ Here's a checklist, mainly based off this
 - Supplementary material:
     - Add clarification tables that would otherwise be too trivial
 
+## Visual Structure
+Give strong visual structure to your paper using
+- sections and sub-sections
+- bullets
+- italics
+- laid-out code
+- Find out how to draw pictures, and use them
+
+## Others from  Simon Peyton-Jones
+- The passive voice is “respectable” but it DEADENS your paper. Avoid
+it at all costs.
+- "You" = reader, "We" = the reader and author, or the authors
+- Identify your key idea
+- Make your contributions explicit
+- Use examples
+
 ## Writing Correctness and Style Pet Peeves
 Tamara Munzner
 
