@@ -1,27 +1,34 @@
 ---
 layout: post
-title: HTML is the best document format
+title: Document Formats
 ---
-
-Assertion: HTML is the best document format, even for school assignments.
-
-Frame it 
 
 ## What's out there
 
-Generally, there are
-
-- plain text
-- latex files compiled to PDF
-- word documents
-- one note files
 - physical pen and paper
+- plain text / markdown
 - html files
+- latex files compiled to PDF
 - Google docs
+- one note files
+- word documents
 
-## Why it's better
+## Pen and paper
 
-HTML advantages:
+- Quickest, by an order of magnitude
+- Can lay things out 
+
+## Plain text / Markdown
+
+- Can be compiled to HTML
+- easy to create
+
+## Latex
+
+- Messy to read raw
+- Best-looking output short of InDesign
+
+## HTML
 
 - can embed videos
 - can embed pictures
@@ -31,11 +38,13 @@ HTML advantages:
 - browsers
 - it's the best file explorer
 
-HTML disadvantages:
-
 - hard to constrain formatting
-- broken links, 
+- broken links, possible
 - hard to create (compared to Google docs)
+
+## Google Docs
+
+- WYSIWYG: easy REPL/format editing feedback loop
 
 ## What you see is what you get
 
