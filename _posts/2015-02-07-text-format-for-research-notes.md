@@ -4,11 +4,14 @@ title: Text Formats for Research Notes
 ---
 
 Markdown:
+
 - made for HTML
 - HTML is easily shareable
 - [Scholarly Markdown](http://blog.martinfenner.org/2014/09/07/commonmark-and-the-future-of-scholarly-markdown/)
+- Standards are constantly changing
 
 Latex:
+
 - made for typesetting PDFs
 - comprehensive feature set
 - handles references nicely
