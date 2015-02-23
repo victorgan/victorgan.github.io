@@ -37,8 +37,12 @@ settings specified in `Vagrantfile`:
 vagrant up
 vagrant ssh
 cd /vagrant
-jekyll serve --host 0.0.0.0
+jekyll serve --host 0.0.0.0 --watch 4000
 ```
+
+`--watch 4000` enables auto-regeneration when the site is modified, and 
+`--host 0.0.0.0` is a hack to deal with localhost issues. You can also append
+`--drafts` to include posts in the drafts folder.
 In your own regular web browser, view the site at http://localhost:4000
 
 When finished, exit jekyll with a `ctl+c` and exit the vm with `exit`. When you
@@ -46,5 +50,8 @@ want to compile again, do everything after `vagrant up` again. Finally
 you can `vagrant destroy` to remove all traces of the virtual machine.
 
 # References
-[Stackoverflow](http://stackoverflow.com/questions/27617217/cannot-reach-jekyll-server-on-vagrant-from-outside) on 0.0.0.0.
-[Github Pages Installation](https://help.github.com/articles/using-jekyll-with-pages/)
+
+- [Stackoverflow](http://stackoverflow.com/questions/27617217/cannot-reach-jekyll-server-on-vagrant-from-outside) on 0.0.0.0.
+- [Github Pages Installation](https://help.github.com/articles/using-jekyll-with-pages/)
+- [Vagrant with Github Pages](https://github.com/rjsilk/vagrant-github-pages)
+- [Vagrant with Jekyll](https://dwradcliffe.com/2013/04/12/vagrant-to-compile-jekyll.html)
