@@ -1,0 +1,25 @@
+.vagrant/
+
+# Windows =====
+Thumbs.db       # Windows image file caches
+ehthumbs.db
+Desktop.ini     # Folder config file
+$RECYCLE.BIN/   # Recycle Bin used on file shares
+*.cab           # Windows Installer files
+*.msi
+*.msm
+*.msp
+*.lnk           # Windows shortcuts
+
+# OSX =========
+.DS_Store
+.AppleDouble
+.LSOverride
+._*             # Thumbnails
+.Spotlight-V100 # Files that might appear on external disk
+.Trashes
+.AppleDB        # Directories potentially created on remote AFP share
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
