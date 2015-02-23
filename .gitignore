@@ -1,4 +1,5 @@
 .vagrant/
+_site/
 
 # Windows =====
 Thumbs.db       # Windows image file caches
