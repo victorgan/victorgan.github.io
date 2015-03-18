@@ -25,13 +25,16 @@ jekyll serve
 
 If you'd rather keep your system clean or want to compile on a Windows computer,
 the easiest way is to use a virtual machine.
-Download Vagrant: www.vagrantup.com/downloads.html
-Download VirtualBox: www.virtualbox.org/wiki/Downloads
-On Windows, I recommend downloading Git for Windows for its bash-like command
+
+- Download VirtualBox: www.virtualbox.org/wiki/Downloads or `sudo apt-get
+  install virtualbox`
+- Download Vagrant: www.vagrantup.com/downloads.html or `sudo apt-get install
+  vagrant`
+- On Windows, I recommend downloading Git for its bash-like command
 prompt (enable linux tools): http://git-scm.com/downloads
 
 Then, from a command prompt in the project directory, spin up a VM using the
-settings specified in `Vagrantfile`:
+settings specified in `Vagrantfile`, like so:
 
 ```
 vagrant up

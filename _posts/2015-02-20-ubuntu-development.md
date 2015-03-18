@@ -35,6 +35,7 @@ I want a git repository with all my other git repositories as submodules, so
 whenever I start a new system I can simply pull from the meta-repository.
 
 I want to have a list of my online representation.
+
 - [Goodreads.com](http://goodreads.com)
 - [LinkedIn](http://linkedin.com)
 - [Google Scholar Library](http://scholar.google.ca/scholar?scilib=1&hl=en&as_sdt=0,5)
