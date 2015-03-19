@@ -9,13 +9,11 @@ Plotting the first two [principle
 components](https://www.google.ca/search?q=principal+component+analysis&tbm=isch) is an
 option.  [T-SNE](https://www.google.ca/search?q=t-sne&tbm=isch) is another, a
 method that clusters points that are close in high dimensional space. But I want
-even more intuition! So here's a way to generate a video that shows *every*
+even more intuition! So I made a way to generate a video that shows *every*
 pair of dimensions, with smooth rotations between pairs.
 
-https://github.com/victorgan/dimensions-two-by-two
-
 ![A spiral in 4D]({{ site.url }}/assets/posts/2015-03-17-visualizing.gif)
-Here's how it works. 
+Above you're seeing all 2D projections of some 4D spiral. Here's what's happening.
 I need to choose which dimensions to display first, and what pair of dimensions
 to display next. To avoid sudden viewpoint changes, only one dimension should
 change between successive dimension pairs. 
@@ -38,7 +36,7 @@ a 2-bit gray code ordering could look like:
 In fact, my exact problem is called the gray code combination problem, or the
 revolving door problem.
 
-![2-revolving door problem]({{ site.url }}/assets/posts/2015-03-17-revolving-door.png)
+![2-revolving door problem. Image derived from Knuth's "Art of Computer Programming"]({{ site.url }}/assets/posts/2015-03-17-revolving-door.png)
 2-revolving door problem: Imagine there are 2 of $$d$$ people separated by a
 revolving door. When someone enters the right room, somebody else must enter the
 left room at the same time. Can we find a sequence of moves so that each
@@ -71,3 +69,7 @@ This is done with a rotation around the remaining axis of the three.
 Then, as long as I keep our axis to dimension assignments consistent between
 transitions, I can rotate to each successive dimension pair smoothly. Voila,
 you're seeing in high dimensions!
+
+MATLAB code can be found at:
+[https://github.com/victorgan/dimensions-two-by-two](https://github.com/victorgan/dimensions-two-by-two)
+
