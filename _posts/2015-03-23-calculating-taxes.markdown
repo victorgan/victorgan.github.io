@@ -33,3 +33,9 @@ Code: [https://github.com/victorgan/effective-tax-rates](https://github.com/vict
 on how far your dollar goes does something similar and also includes the cost of
 living.
 
+For completeness, here's a plot of the effective tax rates for all the Canadian
+provinces.
+
+![Taxes]({{ site.url }}/assets/posts/2015-03-23-taxes3.png)
+
+Ouch, Quebec gets taxed like crazy.
