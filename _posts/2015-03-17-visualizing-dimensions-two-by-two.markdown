@@ -13,10 +13,14 @@ even more intuition! So I made a way to generate a video that shows *every*
 pair of dimensions, with smooth rotations between pairs.
 
 ![A spiral in 4D]({{ site.url }}/assets/posts/2015-03-17-visualizing.gif)
-Above you're seeing all 2D projections of some 4D spiral. Here's what's happening.
-I need to choose which dimensions to display first, and what pair of dimensions
+Above you're seeing all 2D projections of some 4D spiral. Even though it has
+four dimensions, you're seeing all 2D projects of it.
+
+Here's how it works. I display two dimensions at a time, then transition to two
+more.  I need to choose which dimensions to display, and what pair of dimensions
 to display next. To avoid sudden viewpoint changes, only one dimension should
-change between successive dimension pairs. 
+change between successive dimension pairs. In this way, I'm always displayed
+three dimensions. 
 
 Making sure I display every possible dimension pair in an order where only one
 of the two dimensions change every iteration is similar to the concept of
