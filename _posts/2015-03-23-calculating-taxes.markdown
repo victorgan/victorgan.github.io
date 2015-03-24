@@ -13,7 +13,7 @@ around $300. Go figure. But calculating actual tax rates is actually not obvious
 due to marginal tax structures. It also varies widely depending on where you
 live, so it's probably a good idea to see what effects taxes have on your gross
 salary if you're comparing jobs in different regions. I could see myself working
-in Ontario, British Columbia, Washington state and California.
+in Ontario, British Columbia, Alberta, Washington state and California.
 
 So, I did some number crunching. Here's the effective tax rates and the actual
 dollar amounts, plotted against gross income.
@@ -23,9 +23,9 @@ dollar amounts, plotted against gross income.
 
 Note that there's no currency conversion going on; California and Washington use
 US dollars. Interestingly, California, Ontario and British Columbia all have
-pretty similar tax rates (ignoring currency differences). Washington, because it
-has no state income tax, means you'll save around 5-10 grand from the tax
-person.
+pretty similar tax rates (ignoring currency differences), which converges to
+Alberta's. Washington, because it has no state income tax, means you'll likely
+save around 4-10 grand from the tax person.
 
 Code: [https://github.com/victorgan/effective-tax-rates](https://github.com/victorgan/effective-tax-rates)
 
