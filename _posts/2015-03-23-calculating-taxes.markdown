@@ -1,0 +1,30 @@
+---
+layout: post
+title: Calculating Taxes
+---
+It's tax season yay!
+
+I've started filling out my forms, and even though I'm living in British
+Columbia, on December 31st I was in Ontario, which means I'd file for Ontario
+taxes.
+
+It turns out, there's not much difference for a non-scholarship gross income of
+$300. But calculating actual tax rates is actually not obvious due to
+marginal tax structures. It also varies widely depending on where you live, so
+it's probably a good idea to see what effects taxes have on your gross salary if
+you're comparing jobs in different regions. For me, Ontario, British Columbia,
+Washington state and California would be potential places to work.
+
+So, I calculated them.
+
+![Taxes]({{ site.url }}/assets/posts/2015-03-23-taxes.png)
+![Taxes]({{ site.url }}/assets/posts/2015-03-23-taxes2.png)
+
+Note that there's no currency conversion going on; California and Washington use
+US dollars. Interestingly, California, Ontario and British Columbia all have
+pretty similar tax rates. Washington, because it has no state income tax, means
+you'll save around 5-10 grand from the tax person.
+
+[This analysis](http://tgeonetta.com/cost-of-living-vs-salary-best-cities-for-software-developers-and-engineers/)
+on how far your dollar goes does something similar and also includes the cost of
+living.
