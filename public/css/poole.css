@@ -48,8 +48,8 @@ body {
 }
 
 html {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 12px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10px;
   line-height: 1.25;
 }
 @media (min-width: 38em) {
