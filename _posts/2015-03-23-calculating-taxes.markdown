@@ -2,21 +2,9 @@
 layout: post
 title: Calculating Taxes
 ---
-It's tax season yay!
 
-I've started filling out my forms, and even though I'm living in British
-Columbia, on December 31st I was in Ontario, which means I'd file for Ontario
-taxes.
-
-It turns out, there's not much difference for a non-scholarship gross income of
-around $300. Go figure. But calculating actual tax rates is actually not obvious
-due to marginal tax structures. It also varies widely depending on where you
-live, so it's probably a good idea to see what effects taxes have on your gross
-salary if you're comparing jobs in different regions. I could see myself working
-in Ontario, British Columbia, Alberta, Washington state and California.
-
-So, I did some number crunching. Here's the effective tax rates and the actual
-dollar amounts, plotted against gross income.
+Plots of effective tax rates and the actual dollar amounts, plotted against
+gross income.
 
 ![Taxes]({{ site.url }}/assets/posts/2015-03-23-taxes.png)
 ![Taxes]({{ site.url }}/assets/posts/2015-03-23-taxes2.png)
