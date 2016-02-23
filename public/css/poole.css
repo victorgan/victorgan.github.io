@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Times New Roman", Times, serif;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 @media (min-width: 38em) {
   html {
