@@ -1,7 +1,0 @@
-## Goal:
-
-### Procedure
-
-### Results
-
-### Comments
