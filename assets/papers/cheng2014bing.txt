@@ -1,6 +1,0 @@
-@inproceedings{cheng2014bing,
-  title={BING: Binarized normed gradients for objectness estimation at 300fps},
-  author={Cheng, Ming-Ming and Zhang, Ziming and Lin, Wen-Yan and Torr, Philip},
-  booktitle={IEEE CVPR},
-  year={2014}
-}
