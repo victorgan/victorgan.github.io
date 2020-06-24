@@ -19,7 +19,7 @@ four dimensions, you're seeing all 2D projects of it.
 Here's how it works. I display two dimensions at a time, then transition to two
 more.  I need to choose which dimensions to display, and what pair of dimensions
 to display next. To avoid sudden viewpoint changes, only one dimension should
-change between successive dimension pairs. In this way, I'm always displaying
+change between successive dimension pairs. In this way, I'm always displayed
 three dimensions. 
 
 Making sure I display every possible dimension pair in an order where only one
