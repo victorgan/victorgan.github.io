@@ -1,20 +1,33 @@
-highlighter: rouge
-permalink: /blog/:year/:month/:day/:title/
-environment: prod
-url: "http://vgan.ca"  # Sitemap base URL.
-plugins:
-  - jekyll-scholar
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-katex
-katex:
-  js_path: "assets"  # Path used to search for katex.min.js
-  rendering_options:
-    # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
-    throw_error: false      # throwOnError - set to false if you want rendering to output error as text rather than a build error
-    error_color: "#cc0000"  # errorColor
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        none
+
+# Setup
+title:            Victor Gan
+tagline:          Website
+url:              http://vgan.ca
+paginate:         1
+baseurl:          /
+author:
+  name:           Victor Gan
+  url:            https://vgan.ca
+  email:          victorgan@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/victorgan/victorgan.github.io.git
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+#  About:    '/about.html'
+#  Feed:     '/atom.xml'
+
+# Should enable comments?
+comments: true
+
+# when calling {{ post.excerpt }}, will only return until this symbol
+excerpt_separator: <!--end excerpt-->
