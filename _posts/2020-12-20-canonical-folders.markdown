@@ -3,8 +3,6 @@ layout: post
 title: Canonical Folders
 ---
 
-# Canonical Folders
-
 ## Overview
 I have a system for organizing files in a filesystem. The system has a single rule. Additional best practices naturally emerge, but the rule stands alone.
 
