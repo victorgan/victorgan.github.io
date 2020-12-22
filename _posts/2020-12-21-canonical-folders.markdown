@@ -3,16 +3,18 @@ layout: post
 title: Canonical Folders
 ---
 
+## Organize the Files
+I started experimenting with  [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style note taking. This meant I quickly made hundreds of files and needed to organize them somehow. Some say to have a single folder and just search, but I often couldn't remember an appropriate query. Others use maps of content, but those need organizing, too. Enter [Johnny Decimal](https://johnnydecimal.com/), a folder naming scheme for organizing projects. I liked it and settled on something like it. So here's my take for a file organization system.
+
 ## Overview
-I have a system for organizing files in a filesystem. The system has a single rule. Additional best practices naturally emerge, but the rule stands alone.
+This is a system for organizing my files. It's a folder naming system with a single rule. Additional best practices naturally emerge, but the rule stands alone.
 
 **Every folder name is prefixed by a single digit**.
 
-I call the system **Canonical Folders**. A folder is a canonical folder if:
+That's it. That's the system. I call it **Canonical Folders**. A folder is a canonical folder if:
 - Its name is prefixed by a single digit,
 - Its digit is unique among sibling folders and directly follows the previous digit, and
 - Every folder in it is also a canonical folder. Every single folder.
-
 
 Here's a truncated example of the canonical folders for my zettelkasten-style knowledge garden:
 
