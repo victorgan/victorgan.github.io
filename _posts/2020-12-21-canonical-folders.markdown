@@ -55,7 +55,7 @@ This system imposes one strict, draconian rule, and restricts nothing else. I lo
 
 - Folders feel curated. It makes a folder feel *intentionally designed* and part of a system, instead of one-off and ad-hocly created. You will care and remember about these intentionally named folders more.
 - It constrains you to max 10 folders per level. This enforces you to keep the number of folders per level limited to a human's working memory capacity. Rarely should you reach number 9. If you do, it is time to re-design your folder structure. This constraint both forces you to organize when necessary and frees you from pre-emptive over-organization. This limit makes each folder ooze importance because of the imposed scarcity.
-- It lets you control ordering. This avoids ad-hoc alphabetical ordering and makes you *intentionally choose* an appropriate ordering. It's also quick to manually order ten things.
+- It lets you control ordering. This avoids ad-hoc alphabetical ordering and makes you *intentionally choose* an appropriate ordering.
 - It's self-evident. It orders ten or less things. You don't need an explicit explanation of the system. It's more affordant than two digits or high unicode characters that need additional explaining. It's simple, not intimidating, and aesthetically pretty, which will make you care about adhering to it.
 
 Because the system will invite you to curate a series of human-designed folders, I call them canonical folders. You'll craft these folders so intentionally for yourself that you'll know exactly where everything is. When something is hard to find, you'll be compelled to reorganize those folders to match your thinking. 

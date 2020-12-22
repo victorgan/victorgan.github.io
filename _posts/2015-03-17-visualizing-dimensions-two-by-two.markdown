@@ -58,8 +58,7 @@ dimensions) is 4, these sequences of moves could work:
 | 1010                    | 2, 4        |
 | 1001                    | 1, 4        |
 
-Notice how one dimension is consistent between neighbouring rows. Great, I can
-use this.
+Notice how one dimension is consistent between neighbouring rows.
 
 Now, say I'm showing dimensions 1 and 2 and want to show dimensions 2 and 3. I
 need to make dimension 3 appear and dimension 1 disappear. Fortunately, the
