@@ -9,8 +9,8 @@ I have a system for organizing files in a filesystem. The system has a single ru
 **Every folder name is prefixed by a single digit**.
 
 I call the system **Canonical Folders**. A folder is a canonical folder if:
-- It's name is prefixed by a single digit,
-- It's digit is unique among sibling folders and directly follows the previous digit, and
+- Its name is prefixed by a single digit,
+- Its digit is unique among sibling folders and directly follows the previous digit, and
 - Every folder in it is also a canonical folder. Every single folder.
 
 
