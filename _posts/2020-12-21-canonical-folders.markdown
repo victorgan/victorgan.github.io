@@ -61,7 +61,7 @@ This system imposes one strict, draconian rule, and restricts nothing else. I lo
 Because the system will invite you to curate a series of human-designed folders, I call them canonical folders. You'll craft these folders for yourself in a high-touch way so you'll know where everything is the same way you know where your cutlery is in your kitchen.
 
 ## How to Start using Canonical Folders
-Begin by lazily making canonical folders for the content you are storing. Do this only as needed. 
+Begin by lazily making canonical folders for the content you are storing. Do this only as needed and make the folders as specific as possible. 
 
 Begin with 0. Once you reach 2 or higher, consider renumbering them to form a logical ordering. A great default order is the time that you created the folder.
 
