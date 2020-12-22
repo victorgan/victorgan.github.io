@@ -66,7 +66,7 @@ Rarely should you reach number 9. If you do, it is a sign to re-design your fold
 This system imposes one strict, draconian rule, and restricts nothing else. The design has four primary benefits.
 
 - Folders feel curated. It makes a folder feel *intentionally designed* and part of a system, instead of a mishmash of one-offs and ad-hoc names.
-- It constrains you to max 10 folders per level. This enforces you to keep the number of folders per level limited to a human's working memory capacity. Each folder feels importantbecause of this imposed scarcity.
+- It constrains you to max 10 folders per level. This enforces you to keep the number of folders per level limited to a human's working memory capacity. Each folder feels important because of this imposed scarcity.
 - It lets you control ordering. This avoids ad-hoc alphabetical ordering and makes you *intentionally choose* an appropriate ordering.
 - It's self-evident. It orders ten or less things. You don't need an explicit explanation of the system. It's more affordant than two digits or high unicode characters that need additional explaining. It's simple, not intimidating, and aesthetically pretty, which will make you care about adhering to it.
 
@@ -76,3 +76,6 @@ These benefits will invite you to curate a series of intentionally designed fold
 Canonical folders is a system to help you tidy up your computer files. Use it by putting a digit in front of every folder name. 
 
 It's fun, speeds up worst-case retrieval time, and the practice of making them helps you categorize and synthesize what information you are storing. Like finally getting a room organized with proper storage, the maintenance effort is outweighed by the cognitive peace achieved.
+
+*Thanks to Kyle for reviewing drafts of this.*
+
