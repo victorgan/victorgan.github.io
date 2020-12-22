@@ -4,7 +4,8 @@ title: Canonical Folders
 ---
 
 ## Organize the Files
-I started experimenting with  [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style note taking. This meant I quickly made hundreds of files and needed to organize them somehow. Some say to have a single folder and just search, but I often couldn't remember an appropriate query. Others use maps of content, but those need organizing, too. Enter [Johnny Decimal](https://johnnydecimal.com/), a folder naming scheme for organizing projects. I liked it and settled on something like it. So here's my take for a file organization system.
+I started experimenting with  [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style note taking. This meant I quickly made hundreds of files and needed to organize them somehow. I could have a single folder and just search, but I often can't remember an appropriate query. Maps of content help, but those need organizing, too. Enter [Johnny Decimal](https://johnnydecimal.com/), a folder naming scheme for organizing projects. I liked it and changed it a bit. So here's my take for a file organization system.
+
 
 ## Overview
 This is a system for organizing my files. It's a folder naming system with a single rule. Additional best practices naturally emerge, but the rule stands alone.
