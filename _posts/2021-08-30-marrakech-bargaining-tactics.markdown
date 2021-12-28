@@ -3,8 +3,6 @@ layout: post
 title: Marrakech Bargaining Tactics
 ---
 
-Marrakech Bargaining Tactics
-
 In the main square, there were lots of stalls selling fruit juice. The posted price for a large mixed drink was 20 Morrocan Dihrams. I tried buying it a couple times.
 
 - Once I asked for a better price. I got 15 dihrams and a picture with me in the stall.
