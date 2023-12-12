@@ -5,18 +5,18 @@ title: Digital Gardening Folder Tips
 
 I started experimenting with  [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style note taking. This meant I quickly made hundreds of files and needed to organize them somehow. 
 
-I could have a single folder and just search, but I often can't remember an appropriate query and I like browsing through files sometimes for discoverability because I don't know exactly what I'm looking for.  So here's 👏 3 👏  tips 👏  that I've found useful for making folders.
+I could have a single folder and just search, but I often can't remember an appropriate query and I like browsing through files sometimes for discoverability because I don't know exactly what I'm looking for.  So here's 👏 3 👏 tips 👏 that I've found useful for making folders.
 
 ## Put a digit in front of the folder name
 I have a couple rules for folders:
 - Folder names are prefixed by a single digit, eg. `2 Projects`.
-- Digits go from 0 to 9 in order with no repeated numbers (0,1,2,3... not 0,5,2,7... or 0,0,3,3...)
-- A folder has either files or folders, never both [^1] 
+- Digits go from 0 to 9 in order with no repeated numbers (0,1,2,3... not 0,5,2,7... or 0,0,3,3...).
+- A folder has either files or folders, never both [^1] .
 
 This leads to some cool nuances.
 
 - There's a maximum of ten folders inside one folder. This is kinda nice for browsing since each folder level is guaranteed to be a manageable size.
-- I lazily create the folder hierarchy. When I'm first making the folders, I don't try to make comprehensive sections, just something satisfactory. When it's getting close to ten folders, I try and find patterns and refactor the folders to something that better fits the files - for example, I might make a new folder encompassing three existing folders, and put those three folders inside it because it they are logical taxonomic children. It's kind of a pain to manually re-number them, but it avoids the temptation of over-organizing before necessary.
+- I lazily create the folder hierarchy. When I'm first making the folders, I don't try to make comprehensive sections, just something satisfactory. When it's getting close to ten folders, I try and find patterns and refactor the folders to something that better fits the files - for example, I might make a new folder encompassing three existing folders, and put those three folders inside it because they are logical taxonomic children. It's kind of a pain to manually re-number them, but it avoids the temptation of over-organizing before necessary.
 - Forcing myself to think about hierarchies during reorganization feels like it helps me understand how files relate to each other better. Often, I'll start making new files inspired by a folder reorganization revealing a pattern.
 - The folder names are aestheticly pleasing :).
 
