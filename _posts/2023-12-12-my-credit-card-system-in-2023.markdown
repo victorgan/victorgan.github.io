@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Current Credit Card System
+title: My Credit Card System in 2023
 ---
 
 When I first moved to the US, I got a credit card at my employer’s orientation day, the only one I could get with no credit history. I used it for quite a few years. Lately though, I started getting into the credit card points game. I find it hard to explain to people why this game is so fun because there’s a lot of danger with credit, there’s some perverse pyramid-scheme elements with affiliate links, and not everyone has the ability to play it. The time spent researching also likely won’t be worth the money you get out of this hobby. But if you like the thrill of a good deal and refining the way you think about money, it can be a really fun waste of time. Here’s my current setup.
