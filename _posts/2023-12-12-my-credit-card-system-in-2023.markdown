@@ -30,7 +30,7 @@ I got the **Chase Ink Business Preferred** (100K SUB) business card and downgrad
 
 Here’s when I really started getting into the game. My rate of getting cards was limited by two factors: my natural spend ($2.5k a month on rent) and the rule of thumb to only apply for a Chase business card every 3 months (known as riding the Ink Train). I want to stay under 5/24 to keep riding the Ink Train (90k SUB’s with no annual fee choo choo). Luckily, in the summer I got back to 1/24, so I applied for 2 more personal cards this year.
 
-I got the **Amex Gold** (90k SUB). I cancelled the Amex Platinum in 2023 because I wasn’t using enough credits naturally, which were quite a pain to keep track of. I didn’t downgrade the Plat to the Gold because then I wouldn’t have been able to get the Gold SUB, so my credit score took a small hit. So I got the Gold mainly for the close to all-time high SUB, to maintain Amex points, and for the marginal 1x increase in restaurant/grocery multiplier over the Citi Premier.
+I got the **Amex Gold** (90k SUB). I cancelled the Amex Platinum in 2023 because I wasn’t using enough credits naturally, which were quite a pain to keep track of. I didn’t downgrade the Plat to the Gold because then I wouldn’t have been able to get the Gold SUB, so my credit score took a small hit. I got the Gold mainly for the close to all-time high SUB, to maintain Amex points, and for the marginal 1x increase in restaurant/grocery multiplier over the Citi Premier.
 
 At this time, I took a trip and paid $200/night in cash for some rip-off Hilton hotel, and all I got was free breakfast from my Amex Plat. This made me reconsider my hotel strategy, and so I got the **Chase IHG One Premier** (140k SUB) and **Chase IHG One Premier Business** (140k SUB). I missed the higher 175k SUB on these, but I got these for the still high SUB and when you redeem points at IHG hotels you get the 4th night free. They also come with 40k free night certificates after the first year, so I wanted to get both close together so I can spend both of them in one trip in ongoing years.
 
@@ -41,20 +41,20 @@ That’s all my credit cards so far. Next up is more Ink-Training with more Chas
 ## Hotel Strategy
 I used to use Hotwire to try and find the cheapest hotel or find the cheapest AirBNB, but now I’m at a point where I’ll pay ~30% more for a clean hotel in a central location. I don’t care about ultra-luxury properties for now.
 
-IHG has periodic point sales where you can buy points at 50 cents each. I bought 500k points for $2500 in 2023 in addition to the two card SUBs. This large point stash lets me speculatively book stays right away, so before I even commit to a trip I can lock in a good deal, and they’re fully refundable if I find something better or bail on the trip. I find with the 4th night free benefit, this is often the cheapest option on the US West Coast. A side benefit is because I can always buy IHG points, I don’t worry about the opportunity cost of using the points like I do with Chase or Citi points.
+**IHG** has periodic point sales where you can buy points at 50 cents each. I bought 500k points for $2500 in 2023 and have 280k from the two card SUBs. I find with the 4th night free benefit, this is often the cheapest option on the US West Coast. A side benefit is because I can always buy IHG points, I don’t worry about the opportunity cost of using the points like I do with Chase or Citi points.
 
-Hyatt properties also have good value when redeeming points, mostly on the US East Coast. I get these by converting Chase points to Hyatt points, and will do it if I can get >1.8 cents per point (cpp) value. There’s not many properties, so it’s hard to solely rely on this.
+**Hyatt** properties also have good value when redeeming points, mostly on the US East Coast. I get these by converting Chase points to Hyatt points, and will do it if I can get >1.8 cents per point (cpp) value. There’s not many properties, so it’s hard to solely rely on this.
 
-Choice Privileges has low end hotels in national parks, which are great for road trips. I haven’t used points for this, but I’ve heard there’s good value in transferring Citi points at a 1:2 ratio from Citi:Choice.
+**Choice Privileges** has low end hotels in national parks, which are great for road trips. I haven’t used points for this, but I’ve heard there’s good value in transferring Citi points at a 1:2 ratio from Citi:Choice.
 
 Hilton points are bad until the super high end, and status is only worth it for luxury, so I don’t mess with either. I haven’t looked too much into Marriott or other hotel chains.
 
-In practice, if I’m thinking of a trip, I’ll first book an IHG hotel with points right away. Then if I have more time I find the best IHG, Hyatt and Choice Privileges options on points, as well as any cash options, and put them all in a janky spreadsheet to see which has the lowest effective price taking into account point values, current cash promos, Rakuten cash back, etc.
+In practice, if I’m thinking of a trip, I’ll first book an IHG hotel with points right away. Because of my point stash, before I even commit to a trip I can lock in a good deal, and they’re fully refundable if I find something better or bail on the trip. Then if I have more time I find Hyatt and Choice Privileges options on points, as well as any cash options (from these chains and others), and put them all in a janky spreadsheet to see which has the lowest effective price taking into account point values, current cash promos, Rakuten cash back, etc.
 
 ## Airfare Strategy
 I prefer direct economy flights. I don’t care too much about business or first class unless it’s relatively affordable even with points. I’ll pay hundreds of dollars more for a direct flight instead of a connecting one to save time. I like lounges mostly for the free food, but don’t need them.
 
-I listed out all the direct flights from Seattle and found the top ones I’d like to take in the next couple years: domestic US flights, Toronto, Tokyo, Taipei, Seoul, Shanghai and Mexico City. I went to Europe my past two trips, so that’s on the back burner. There’s also destinations I’d like to take that have indirect flights, but I haven’t looked into them that much yet.
+I listed out all the **direct flights from Seattle** and found the top ones I’d like to take in the next couple years: domestic US flights, Toronto, Tokyo, Taipei, Seoul, Shanghai and Mexico City. I went to Europe my past two trips, so that’s on the back burner. There’s also destinations I’d like to take that have indirect flights, but I haven’t looked into them that much yet.
 
 One sweet spot is Turkish Airlines points (transferred from Citi points), which transfers to Star Alliance partners United or Air Canada. I go back to **Toronto** quite often, which takes 20k points for a direct flight. These tickets go for $400-$700 USD, so it’s an easy >2 cpp. I had to call in to book this last time, which was a little cumbersome. 
 
@@ -68,10 +68,11 @@ Eva Air (Star Alliance) has a direct flight to **Taipei**. Korean Air and Delta 
 
 I haven’t looked into Shanghai yet.
 
+When booking a flight, I’ll look at the cheapest cash price, cash price for a direct flight, and point price, and choose whichever one makes sense.
+
 
 ## Point Strategy
-
-That’s a lot of fuzzy talk about what to do for hotels and airlines. Right now I have four sources of points: Citi points from spending, Chase points from Ink Trains, Amex points from SUBs and spending, and IHG points from direct purchases.
+Right now I have four sources of points: Citi points from spending, Chase points from Ink Trains, Amex points from SUBs and spending, and IHG points from direct purchases.
 
 I’m saving my Citi points for Seattle to Toronto flights, since I know I’ll use them for this flight and the value is great. Since I don’t have a way to SUB farm these points, I’d only use them for other Turkish flights or Choice Privileges hotel stays that are >2cpp.
 
