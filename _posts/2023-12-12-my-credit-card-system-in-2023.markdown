@@ -3,44 +3,45 @@ layout: post
 title: My Credit Card System in 2023
 ---
 
-When I first moved to the US, I got a credit card at my employer’s orientation day, the only one I could get with no credit history. I used it for quite a few years. Lately though, I started getting into the credit card points game. I find it hard to explain to people why this game is so fun because there’s a lot of danger with credit, there’s some perverse pyramid-scheme elements with affiliate links, and not everyone has the ability to play it. The time spent researching also likely won’t be worth the money you get out of this hobby. But if you like the thrill of a good deal and refining the way you think about money, it can be a really fun waste of time. Here’s my current setup.
+Lately I started getting into the credit card points game. It's a weird game...there’s a lot of danger with credit, some perverse pyramid-scheme elements with affiliate links, and kind of incentivizes you to spend more. But it's kinda fun lol. Here’s what I've done.
 
 ## Credit Cards Before 2018
 I got the **Citi Double Cash** shortly after my first credit card for the 2% back, with no sign-up bonus (SUB). Then I got the **Citi Costco** card (SUB of a water bottle or something) that I only use for Costco gas now.
 
-I’d use the Costco card at Costco, my Credit Union card internationally for no exchange fees, and the Double Cash for that sweet 2% back for everything else. I paid no annual fees. My life was happy.
+I used the Costco card at Costco, my Credit Union card internationally for no exchange fees, and the Double Cash for 2% back for everything else. 
 
 ## Credit Cards of 2021
 
-In 2021 I got the **Citi Premier** (80K SUB) because it had a good SUB at the time, is known to be harder to get later on, let me access Citi transfer partners, and has great multipliers. I thought I’d just keep this and the Double Cash (which allows the 2% back be 2X Citi points) as a simple two card setup for the rest of my life if I stopped churning (spoiler: I didn’t).
+In 2021 I got the **Citi Premier** (80K SUB) because it had a good SUB at the time and people said it would be harder to get later on. I thought I’d just keep this and the Double Cash (which allows the 2% back be 2X Citi points) as a simple two card setup if I stopped churning (spoiler: I didn’t).
 
-Around the same time, I got the **Chase Sapphire Preferred** (100k SUB), aka CSP. I knew this overlapped the Citi Premier in spending categories (who cares, good SUB), but I got it for the SUB and primary auto rental insurance. 
+Around the same time, I got the **Chase Sapphire Preferred** (100k SUB), aka CSP. I knew this overlapped the Citi Premier in spending categories, but who cares the SUB was good. It also had primary auto rental insurance which I used once.
 
 The last card I got in 2021 was the **Amex Platinum** (150K SUB), for the SUB and to flex on others at lounges. 
 
-I got these cards mostly for their all-time high SUBs. I basically used the Citi Premier and Double Cash for most everyday purchases, Amex Platinum for air travel and lounge access, and CSP for car rentals. I also had access to transfer partners from all 3 banks, but I never actually spent any points cause of analysis paralysis.
+I got these cards mostly for their all-time high SUBs. I basically used the Citi Premier and Double Cash for most everyday purchases, Amex Platinum for air travel and lounge access, and CSP for car rentals. I also had access to transfer partners from all 3 banks, but I never actually spent any points mostly cause of analysis paralysis.
 
 My spend is relatively low so the actual multipliers don’t matter too much compared to the SUBs, though it is a bit satisfying to match the spending to the right card.
 
 ## Credit Cards of 2022
-In January 2022 I got the **Chase Aeroplan** (2x50K Cert SUB), purely for the SUB. Later I would realize this card’s true hidden power (10% Aeroplan transfer bonus + 1.25% pay yourself back on any travel).
+In January 2022 I got the **Chase Aeroplan** (2x50K Cert SUB), purely for the SUB. Later I would realize this card’s has some nifty benefits 10% Aeroplan transfer bonus + 1.25% pay yourself back on any travel, but for the most part it was just another SUB.
 
 At this time I applied to 4 cards in the last 24 months (Citi Premier, CSP, Amex Platinum, Chase Aeroplan), which matters because Chase denies new cards if you’ve applied to 5 personal cards in the last 24 months (dubbed 5/24), so I stopped applying to others. 
 
 ## Credit Cards of 2023
-I got a **Chase Ink Business Cash** (90K SUB), my first business card, to stay under 5/24. I didn’t realize I could’ve applied for business cards, which I should’ve done all this time every 3 months.
+I got a **Chase Ink Business Cash** (90K SUB), my first business card, to stay under 5/24. I didn’t realize I could’ve applied for business cards, which I could’ve done all this time every 3 months.
 
-I got the **Chase Ink Business Preferred** (100K SUB) business card and downgraded the CSP to the no-fee **Chase Freedom Unlimited**. This let me keep access to Chase’s transfer partners without adding to my 5/24, and downgrading instead of cancelling means my credit score didn’t go down.
+I got the **Chase Ink Business Preferred** (100K SUB) business card and downgraded the CSP to the no-fee **Chase Freedom Unlimited**. This let me keep access to Chase’s transfer partners without adding to my 5/24, and downgrading instead of cancelling meant my credit score didn’t go down.
 
-Here’s when I really started getting into the game. My rate of getting cards is limited by two factors: my natural spend ($2.5k a month on rent) and the rule of thumb to only apply for a Chase business card every 3 months (known as riding the Ink Train). I want to stay under 5/24 to keep riding the Ink Train (90k SUB’s with no annual fee choo choo). Luckily, in the summer I got back to 1/24, so I applied for 2 more personal cards this year.
+Here’s when I got a bit more sweaty. My rate of getting cards is limited by two factors: my natural spend ($2.5k a month on rent) and the rule of thumb to only apply for a Chase business card every 3 months (known as riding the Ink Train). I want to stay under 5/24 to keep riding the Ink Train (90k SUB’s with no annual fee). Luckily, in the summer I got back to 1/24, so I applied for 2 more personal cards this year.
 
 I got the **Amex Gold** (90k SUB). I cancelled the Amex Platinum in 2023 because I wasn’t using enough credits naturally, which were quite a pain to keep track of. I didn’t downgrade the Plat to the Gold because then I wouldn’t have been able to get the Gold SUB, so my credit score took a small hit. I got the Gold mainly for the close to all-time high SUB, to maintain Amex points, and for the marginal 1x increase in restaurant/grocery multiplier over the Citi Premier.
 
-At this time, I took a trip and paid $200/night in cash for some rip-off Hilton hotel, and all I got was free breakfast from my Amex Plat. This made me reconsider my hotel strategy, and so I got the **Chase IHG One Premier** (140k SUB) and **Chase IHG One Premier Business** (140k SUB). I missed the higher 175k SUB on these, but I got these for the still high SUB and when you redeem points at IHG hotels you get the 4th night free. They also come with 40k free night certificates after the first year, so I wanted to get both close together so I can spend both of them in one trip in ongoing years.
+At this time, I took a trip and paid $200/night in cash for some rip-off Hilton hotel, and all I got was free breakfast from my Amex Plat. This made me reconsider my hotel strategy, and so I got the **Chase IHG One Premier** (140k SUB) and **Chase IHG One Premier Business** (140k SUB). I missed the higher 175k SUB on these, but I got these for the still high SUB and when you redeem points at IHG hotels you get the 4th night free. They also come with 40k free night certificates every year after the first year, so I wanted to get both close together so I can spend both of them in one trip in ongoing years.
 
-I then got the **Amex Business Gold** (150K + 15K*2 SUB) since it didn’t add to 5/24 nor Chase’s business card timers and came with Walmart+ (I’m too cheap for Amazon Prime). I missed the timing for 20k points per 4k spend on employee cards, but got the 15k one, which makes this card’s SUB my most lucrative yet.
+I then got the **Amex Business Gold** (150K + 15K*2 SUB) since it didn’t add to 5/24 nor Chase’s business card timers and came with Walmart+ (kinda useful, I don't have Amazon Prime). I missed the timing for 20k points per 4k spend on employee cards, but got the 15k one, which makes this card’s SUB pretty high.
 
-That’s all my credit cards so far. 
+In January 2024, I got a **Chase Ink Business Unlimited** (90k SUB).
+
 
 ## Credit Card Annual Fees
 I’ll keep paying Citi Premier’s $100 fee indefinitely for transfer partner access. I may keep paying Amex Gold’s $250 fee for the 4x restaurant spend, or cancel and get the Amex Blue Business Cash to retain transfer partner access. I’ll keep paying the Chase Ink Business Preferred $100 fee for Chase transfer partner access, but replace it when I can get another SUB for a new CSP in 2025. I keep these for transfer partner access even though these cards don’t necessarily pay for themselves.
@@ -86,7 +87,7 @@ ANA, a Star Alliance member, has direct flight to **Tokyo**, bookable with any S
 
 Eva Air (Star Alliance) has a direct flight to **Taipei**. Korean Air and Delta (SkyTeam) and Asiana (Star Alliance) has direct flights to **Seoul**.
 
-I haven’t looked into Shanghai yet.
+**Shanghai** has a direct Delta (SkyTeam) flight.
 
 When booking a flight, I’ll look at the cheapest cash price, cash price for a direct flight, and point price, and choose whichever one makes sense.
 
@@ -96,7 +97,7 @@ Right now I have four sources of points: Citi points from spending, Chase points
 
 I’m saving my **Citi points** for Seattle to Toronto flights, since I know I’ll use them for this flight and the value is great. Since I don’t have a way to SUB farm these points, I’d only use them for other Turkish flights or Choice Privileges hotel stays that are >2 cpp.
 
-**Chase points** are extremely plentiful since I’m under 5/24 and riding the Ink Train. Hyatt redemptions are good when available, but only when the marginal savings over other point or cash hotel options is notable. Otherwise, converting Chase points into Aeroplan points during at least a 20% transfer bonus and using the Aeroplan card to pay for travel expenses gives 1.625 cpp (20% + 10% bonus, and then 1.25 cents per point), which can be used to pay for things that points don’t cover or when paying with cash is the better option. I’ll likely only use these two options.
+**Chase points** are renewable since I’m under 5/24 and riding the Ink Train. Hyatt redemptions are good when available, but only when the marginal savings over other point or cash hotel options is notable. Otherwise, converting Chase points into Aeroplan points during at least a 20% transfer bonus and using the Aeroplan card to pay for travel expenses gives 1.625 cpp (20% + 10% bonus, and then 1.25 cents per point), which can be used to pay for things that points don’t cover or when paying with cash is the better option. I’ll likely only use these two options.
 
 **Amex points** has multiple Skyteam and Star Alliance transfer partners. Virgin seems to be the top tier Skyteam partner (followed by Flying Blue), so it’s worth transferring points to them when there’s a 30% transfer bonus. Aeroplan, ANA, Avianca and Singapore Airlines are Star Alliance transfer partners, with IMO Aeroplan being the top tier. I’ll wait for a 30% transfer bonus for Aeroplan, but if another Star Alliance member has a transfer bonus when I’m booking a Star Alliance flight, I might as well use that one.
 
